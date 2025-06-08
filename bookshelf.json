@@ -1,0 +1,2216 @@
+{
+  "currentlyReading": [
+    {
+      "title": "The Bezzle (Martin Hench, #2)",
+      "author": "Cory Doctorow",
+      "link": "https://www.goodreads.com/review/show/7597108397?utm_medium=api&utm_source=rss",
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690390791l/127306588._SY75_.jpg",
+      "shelves": [
+        "currently-reading",
+        "2025"
+      ],
+      "readAt": null
+    },
+    {
+      "title": "After the Future",
+      "author": "Franco \"Bifo\" Berardi",
+      "link": "https://www.goodreads.com/review/show/7065579818?utm_medium=api&utm_source=rss",
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328705847l/9658252._SX50_.jpg",
+      "shelves": [
+        "currently-reading"
+      ],
+      "readAt": null
+    }
+  ],
+  "readBooksByYear": {
+    "2015": [
+      {
+        "title": "The Shock Doctrine: The Rise of Disaster Capitalism",
+        "author": "Naomi Klein",
+        "link": "https://www.goodreads.com/review/show/2063648282?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442590618l/1237300._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2017/07/26"
+      },
+      {
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "link": "https://www.goodreads.com/review/show/1494323588?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519481930l/7082._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2016/01/08"
+      },
+      {
+        "title": "Aguafuertes porteñas",
+        "author": "Roberto Arlt",
+        "link": "https://www.goodreads.com/review/show/1452964403?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1177988471l/748270._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/11/26"
+      },
+      {
+        "title": "Ham on Rye",
+        "author": "Charles Bukowski",
+        "link": "https://www.goodreads.com/review/show/1413550752?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388195001l/38501._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/11/15"
+      },
+      {
+        "title": "Ready Player One (Ready Player One, #1)",
+        "author": "Ernest Cline",
+        "link": "https://www.goodreads.com/review/show/1490274546?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/11/12"
+      },
+      {
+        "title": "Final del juego",
+        "author": "Julio Cortázar",
+        "link": "https://www.goodreads.com/review/show/1440977597?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487285962l/623851._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/11/12"
+      },
+      {
+        "title": "La memoria de Shakespeare",
+        "author": "Jorge Luis Borges",
+        "link": "https://www.goodreads.com/review/show/1413559427?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1239685717l/929588._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/11/07"
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "link": "https://www.goodreads.com/review/show/1455613971?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/29"
+      },
+      {
+        "title": "All the Names",
+        "author": "José Saramago",
+        "link": "https://www.goodreads.com/review/show/1424736380?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698015342l/2528._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/27"
+      },
+      {
+        "title": "On the Road",
+        "author": "Jack Kerouac",
+        "link": "https://www.goodreads.com/review/show/1423250141?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1658929891l/70401._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/25"
+      },
+      {
+        "title": "Alice in Wonderland",
+        "author": "Jane Carruth",
+        "link": "https://www.goodreads.com/review/show/1420807266?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391458382l/13023._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/23"
+      },
+      {
+        "title": "Across the River and into the Trees",
+        "author": "Ernest Hemingway",
+        "link": "https://www.goodreads.com/review/show/1415311499?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379313760l/10778._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/19"
+      },
+      {
+        "title": "The Doors of Perception",
+        "author": "Aldous Huxley",
+        "link": "https://www.goodreads.com/review/show/1413560449?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364525216l/3188964._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/17"
+      },
+      {
+        "title": "The Garden of Eden",
+        "author": "Ernest Hemingway",
+        "link": "https://www.goodreads.com/review/show/1413558685?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405529251l/10775._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/17"
+      },
+      {
+        "title": "El juguete rabioso",
+        "author": "Roberto Arlt",
+        "link": "https://www.goodreads.com/review/show/1413555146?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172769525l/214703._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/16"
+      },
+      {
+        "title": "Los lanzallamas (Los siete locos, #2)",
+        "author": "Roberto Arlt",
+        "link": "https://www.goodreads.com/review/show/1413554009?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332200775l/214702._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/14"
+      },
+      {
+        "title": "Historias desaforadas",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://www.goodreads.com/review/show/1413555478?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370091540l/214549._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/12"
+      },
+      {
+        "title": "The Children of Húrin",
+        "author": "J.R.R. Tolkien",
+        "link": "https://www.goodreads.com/review/show/1414416242?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390692771l/597790._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/12"
+      },
+      {
+        "title": "The Anti-Christ",
+        "author": "Friedrich Nietzsche",
+        "link": "https://www.goodreads.com/review/show/1413561071?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1166894583l/18304._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/11"
+      },
+      {
+        "title": "Historia prodigiosa",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://www.goodreads.com/review/show/1413558460?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501531044l/214547._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/10"
+      },
+      {
+        "title": "When Google Met Wikileaks",
+        "author": "Julian Assange",
+        "link": "https://www.goodreads.com/review/show/1413552253?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399646585l/21839908._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/10/01"
+      },
+      {
+        "title": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
+        "author": "Kevin D. Mitnick",
+        "link": "https://www.goodreads.com/review/show/1413553099?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265017l/10256723._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/09/29"
+      },
+      {
+        "title": "Un campeón desparejo",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://www.goodreads.com/review/show/1413556098?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488396676l/3077546._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/09/23"
+      },
+      {
+        "title": "Asleep in the Sun",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://www.goodreads.com/review/show/1413557605?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657543188l/214536._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/09/14"
+      },
+      {
+        "title": "El amor brujo",
+        "author": "Roberto Arlt",
+        "link": "https://www.goodreads.com/review/show/1472241955?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1177988470l/748269._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/09/13"
+      },
+      {
+        "title": "La otra orilla",
+        "author": "Julio Cortázar",
+        "link": "https://www.goodreads.com/review/show/1443843182?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347831919l/830512._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/09/09"
+      },
+      {
+        "title": "El sueño de los héroes",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://www.goodreads.com/review/show/1413560792?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717687880l/971218._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/09/03"
+      },
+      {
+        "title": "A Moveable Feast",
+        "author": "Ernest Hemingway",
+        "link": "https://www.goodreads.com/review/show/1413549848?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427463201l/4631._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/09/02"
+      },
+      {
+        "title": "I Am Legend",
+        "author": "Richard Matheson",
+        "link": "https://www.goodreads.com/review/show/1413547771?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390170456l/14064._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/08/31"
+      },
+      {
+        "title": "Todos los fuegos el fuego",
+        "author": "Julio Cortázar",
+        "link": "https://www.goodreads.com/review/show/1435122346?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348429071l/54016._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/08/30"
+      },
+      {
+        "title": "The Adventures of a Photographer in La Plata",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://www.goodreads.com/review/show/1413557924?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339023353l/971233._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/08/12"
+      },
+      {
+        "title": "Nausea",
+        "author": "Jean-Paul Sartre",
+        "link": "https://www.goodreads.com/review/show/1413553643?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738688084l/298275._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/08/11"
+      },
+      {
+        "title": "Criptopunks. La libertad y el futuro de Internet",
+        "author": "Julian Assange",
+        "link": "https://www.goodreads.com/review/show/1413552509?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371818558l/18107683._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/07/31"
+      },
+      {
+        "title": "La invención de Morel",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://www.goodreads.com/review/show/1413556957?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444353005l/26991507._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/07/26"
+      },
+      {
+        "title": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+        "author": "Simon Singh",
+        "link": "https://www.goodreads.com/review/show/1413553374?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403181687l/17994._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/07/24"
+      },
+      {
+        "title": "Plan de evasión",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://www.goodreads.com/review/show/1413561340?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556635447l/6006954._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/07/14"
+      },
+      {
+        "title": "El jorobadito y otros cuentos",
+        "author": "Roberto Arlt",
+        "link": "https://www.goodreads.com/review/show/1413561557?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327990620l/2729632._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/07/12"
+      },
+      {
+        "title": "Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera",
+        "author": "Bryan Peterson",
+        "link": "https://www.goodreads.com/review/show/1413549592?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320514869l/142239._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/07/12"
+      },
+      {
+        "title": "El lado de la sombra",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://www.goodreads.com/review/show/1413556301?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361023274l/971229._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/06/25"
+      },
+      {
+        "title": "Homage to Catalonia",
+        "author": "George Orwell",
+        "link": "https://www.goodreads.com/review/show/1413554451?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394868278l/9646._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/06/15"
+      },
+      {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "link": "https://www.goodreads.com/review/show/1180252445?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/06/14"
+      },
+      {
+        "title": "The Sworn Sword (The Tales of Dunk and Egg, #2)",
+        "author": "George R.R. Martin",
+        "link": "https://www.goodreads.com/review/show/1413549128?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661021151l/11985631._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/06/07"
+      },
+      {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "link": "https://www.goodreads.com/review/show/1425325978?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629378189l/52036._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/05/26"
+      },
+      {
+        "title": "Tales of the Unexpected",
+        "author": "Roald Dahl",
+        "link": "https://www.goodreads.com/review/show/1413552008?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403167344l/394689._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/05/15"
+      },
+      {
+        "title": "The Mystery Knight (The Tales of Dunk and Egg, #3)",
+        "author": "George R.R. Martin",
+        "link": "https://www.goodreads.com/review/show/1413549227?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661021372l/11350430._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/05/11"
+      },
+      {
+        "title": "The Call of Cthulhu",
+        "author": "H.P. Lovecraft",
+        "link": "https://www.goodreads.com/review/show/1435979384?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567470807l/15730101._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/05/02"
+      },
+      {
+        "title": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "link": "https://www.goodreads.com/review/show/1413550175?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389332672l/16631._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/04/29"
+      },
+      {
+        "title": "The Letters of J.R.R. Tolkien",
+        "author": "J.R.R. Tolkien",
+        "link": "https://www.goodreads.com/review/show/1413551767?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388188488l/2327._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/04/26"
+      },
+      {
+        "title": "The Pleasures of the Damned",
+        "author": "Charles Bukowski",
+        "link": "https://www.goodreads.com/review/show/1413551051?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388548147l/220682._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/04/13"
+      },
+      {
+        "title": "The Hedge Knight (The Tales of Dunk and Egg, #1)",
+        "author": "George R.R. Martin",
+        "link": "https://www.goodreads.com/review/show/1413549005?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661025252l/11970747._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/04/01"
+      },
+      {
+        "title": "No Exit",
+        "author": "Jean-Paul Sartre",
+        "link": "https://www.goodreads.com/review/show/1441288694?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362639118l/123933._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/03/24"
+      },
+      {
+        "title": "Tales of the Jazz Age",
+        "author": "F. Scott Fitzgerald",
+        "link": "https://www.goodreads.com/review/show/1413551298?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1177430735l/702817._SX50_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/03/03"
+      },
+      {
+        "title": "Sobre la televisión",
+        "author": "Pierre Bourdieu",
+        "link": "https://www.goodreads.com/review/show/1414415980?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601394929l/6443846._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/02/13"
+      },
+      {
+        "title": "Los siete locos (Los siete locos, #1)",
+        "author": "Roberto Arlt",
+        "link": "https://www.goodreads.com/review/show/1191941426?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1172769477l/214693._SY75_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015/02/05"
+      }
+    ],
+    "2016": [
+      {
+        "title": "The Girls",
+        "author": "Emma Cline",
+        "link": "https://www.goodreads.com/review/show/1844138216?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492065338l/26893819._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/12/20"
+      },
+      {
+        "title": "Pájaros en la boca",
+        "author": "Samanta Schweblin",
+        "link": "https://www.goodreads.com/review/show/1831978245?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1245624161l/6560594._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/12/09"
+      },
+      {
+        "title": "La Conquista de America",
+        "author": "Tzvetan Todorov",
+        "link": "https://www.goodreads.com/review/show/1824070316?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1244649707l/1436958._SX50_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/12/05"
+      },
+      {
+        "title": "A Portrait of the Artist as a Young Man",
+        "author": "James Joyce",
+        "link": "https://www.goodreads.com/review/show/1805999192?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646339380l/7588._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/11/28"
+      },
+      {
+        "title": "The Beautiful and Damned",
+        "author": "F. Scott Fitzgerald",
+        "link": "https://www.goodreads.com/review/show/1795154537?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631090417l/4708._SX50_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/11/07"
+      },
+      {
+        "title": "Opio en las nubes",
+        "author": "Rafael Chaparro Madiedo",
+        "link": "https://www.goodreads.com/review/show/1799298154?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1241619197l/1976325._SX50_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/11/05"
+      },
+      {
+        "title": "Men Without Women",
+        "author": "Ernest Hemingway",
+        "link": "https://www.goodreads.com/review/show/1756191413?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348416820l/108218._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/10/05"
+      },
+      {
+        "title": "Las cosas que perdimos en el fuego",
+        "author": "Mariana Enríquez",
+        "link": "https://www.goodreads.com/review/show/1689125865?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612309224l/28787166._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/08/05"
+      },
+      {
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "link": "https://www.goodreads.com/review/show/1683314510?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630683326l/10534._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/07/13"
+      },
+      {
+        "title": "Bolonqui: El fin del mundo en 1910",
+        "author": "Leonardo Oyola",
+        "link": "https://www.goodreads.com/review/show/1691178546?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380470937l/9692121._SX50_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/07/06"
+      },
+      {
+        "title": "Terror: Antología",
+        "author": "Graciela Gliemmo",
+        "link": "https://www.goodreads.com/review/show/1641173320?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354706995l/16247244._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/06/19"
+      },
+      {
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "link": "https://www.goodreads.com/review/show/1665931297?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424931136l/168642._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/06/16"
+      },
+      {
+        "title": "Kryptonita",
+        "author": "Leonardo Oyola",
+        "link": "https://www.goodreads.com/review/show/1641171576?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318663721l/12863975._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/05/21"
+      },
+      {
+        "title": "Segundo Tratado sobre el Gobierno Civil: Un ensayo acerca del verdadero origen y fin del Gobierno Civil",
+        "author": "John Locke",
+        "link": "https://www.goodreads.com/review/show/1604435707?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1181610154l/1170611._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/05/04"
+      },
+      {
+        "title": "Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream",
+        "author": "Hunter S. Thompson",
+        "link": "https://www.goodreads.com/review/show/1617683002?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703312483l/7745._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/04/27"
+      },
+      {
+        "title": "Discurso sobre el origen de la desigualdad entre los hombres",
+        "author": "Jean-Jacques Rousseau",
+        "link": "https://www.goodreads.com/review/show/1609376583?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348757360l/9889808._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/04/19"
+      },
+      {
+        "title": "Tender Is the Night",
+        "author": "F. Scott Fitzgerald",
+        "link": "https://www.goodreads.com/review/show/1604436900?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559763775l/46164._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/04/16"
+      },
+      {
+        "title": "Kingdom of Fear: Loathsome Secrets of a Star-Crossed Child in the Final Days of the American Century",
+        "author": "Hunter S. Thompson",
+        "link": "https://www.goodreads.com/review/show/1604438404?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347927624l/108220._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/04/16"
+      },
+      {
+        "title": "Cómicos, tiranos y leyendas",
+        "author": "Osvaldo Soriano",
+        "link": "https://www.goodreads.com/review/show/1553217125?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347586560l/16007062._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/02/27"
+      },
+      {
+        "title": "To Have and Have Not",
+        "author": "Ernest Hemingway",
+        "link": "https://www.goodreads.com/review/show/1549270644?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523546270l/4630._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/02/20"
+      },
+      {
+        "title": "Nuevas aguafuertes",
+        "author": "Roberto Arlt",
+        "link": "https://www.goodreads.com/review/show/1543815462?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369135712l/2850700._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/02/13"
+      },
+      {
+        "title": "Ho Chi Minh: A Life",
+        "author": "William J. Duiker",
+        "link": "https://www.goodreads.com/review/show/1604436214?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385191000l/564927._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/02/13"
+      },
+      {
+        "title": "Cuarteles de invierno",
+        "author": "Osvaldo Soriano",
+        "link": "https://www.goodreads.com/review/show/1550139193?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438513653l/214718._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/02/12"
+      },
+      {
+        "title": "Islands in the Stream",
+        "author": "Ernest Hemingway",
+        "link": "https://www.goodreads.com/review/show/1543811349?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400891142l/4633._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/02/10"
+      },
+      {
+        "title": "Dubliners",
+        "author": "James Joyce",
+        "link": "https://www.goodreads.com/review/show/1548679073?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1745850375l/11012._SY75_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016/02/09"
+      }
+    ],
+    "2017": [
+      {
+        "title": "Antología de la literatura fantástica",
+        "author": "Jorge Luis Borges",
+        "link": "https://www.goodreads.com/review/show/2232627265?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333573918l/992903._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/12/30"
+      },
+      {
+        "title": "Este es el mar",
+        "author": "Mariana Enríquez",
+        "link": "https://www.goodreads.com/review/show/2211469886?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493104720l/34953392._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/12/11"
+      },
+      {
+        "title": "El Nuevo Desorden Mundial (Con una cierta mirada) (Spanish Edition)",
+        "author": "Tzvetan Todorov",
+        "link": "https://www.goodreads.com/review/show/2182476414?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328011647l/9917358._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/11/17"
+      },
+      {
+        "title": "El Dolor Paraguayo",
+        "author": "Rafael Barrett",
+        "link": "https://www.goodreads.com/review/show/2148146847?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630622484l/18525819._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/11/03"
+      },
+      {
+        "title": "Guerras de internet: Un viaje al centro de la red para entender cómo afecta tu vida",
+        "author": "Natalia Zuazo",
+        "link": "https://www.goodreads.com/review/show/2087192388?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441143379l/26208457._SY75_.jpg",
+        "shelves": [
+          "2017",
+          "cyber-internet"
+        ],
+        "readAt": "2017/10/08"
+      },
+      {
+        "title": "Los peligros de fumar en la cama",
+        "author": "Mariana Enríquez",
+        "link": "https://www.goodreads.com/review/show/2114036899?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322502801l/13121960._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/09/04"
+      },
+      {
+        "title": "Beren and Lúthien",
+        "author": "J.R.R. Tolkien",
+        "link": "https://www.goodreads.com/review/show/2073120611?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476980147l/32708664._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/08/06"
+      },
+      {
+        "title": "Bajar es lo peor",
+        "author": "Mariana Enríquez",
+        "link": "https://www.goodreads.com/review/show/2063643976?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365440397l/17558411._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/07/17"
+      },
+      {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "link": "https://www.goodreads.com/review/show/2034475993?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639106809l/59716._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/07/10"
+      },
+      {
+        "title": "El limonero real",
+        "author": "Juan José Saer",
+        "link": "https://www.goodreads.com/review/show/2031740601?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461689288l/348249._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/06/16"
+      },
+      {
+        "title": "The Lifecycle of Software Objects",
+        "author": "Ted Chiang",
+        "link": "https://www.goodreads.com/review/show/2007696919?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589835529l/7886338._SX50_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/05/22"
+      },
+      {
+        "title": "Distancia de rescate",
+        "author": "Samanta Schweblin",
+        "link": "https://www.goodreads.com/review/show/1971020903?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532327641l/23153581._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/04/13"
+      },
+      {
+        "title": "El Farmer",
+        "author": "Andrés Rivera",
+        "link": "https://www.goodreads.com/review/show/1967868079?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1644358073l/1007239._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/04/11"
+      },
+      {
+        "title": "Voto electrónico: una solución en busca de problemas",
+        "author": "Beatriz Busaniche",
+        "link": "https://www.goodreads.com/review/show/1967617071?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491844611l/34834679._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/04/10"
+      },
+      {
+        "title": "La revolución es un sueño eterno",
+        "author": "Andrés Rivera",
+        "link": "https://www.goodreads.com/review/show/1947542131?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1276697051l/1007243._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/03/21"
+      },
+      {
+        "title": "Liquid Surveillance: A Conversation",
+        "author": "Zygmunt Bauman",
+        "link": "https://www.goodreads.com/review/show/1904178068?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375677129l/15931706._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/03/20"
+      },
+      {
+        "title": "El traductor",
+        "author": "Salvador Benesdra",
+        "link": "https://www.goodreads.com/review/show/1912534748?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1399263687l/830091._SX50_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/03/13"
+      },
+      {
+        "title": "Residencia en la tierra",
+        "author": "Pablo Neruda",
+        "link": "https://www.goodreads.com/review/show/1903011554?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386925563l/214885._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/02/13"
+      },
+      {
+        "title": "Death by Video Game: Tales of Obsession from the Virtual Frontline",
+        "author": "Simon  Parkin",
+        "link": "https://www.goodreads.com/review/show/1889461085?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436609738l/25888049._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/02/02"
+      },
+      {
+        "title": "Crepusculario/El Hondero Entusiasta /Tentativa del Hombre Infinito",
+        "author": "Pablo Neruda",
+        "link": "https://www.goodreads.com/review/show/1887886010?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394499057l/21417772._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/01/26"
+      },
+      {
+        "title": "Siete casas vacías",
+        "author": "Samanta Schweblin",
+        "link": "https://www.goodreads.com/review/show/1883458765?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708454645l/25624832._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/01/21"
+      },
+      {
+        "title": "La Educación como Práctica de la Libertad",
+        "author": "Paulo Freire",
+        "link": "https://www.goodreads.com/review/show/1844137502?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174364150l/388468._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/01/17"
+      },
+      {
+        "title": "Bocas del Tiempo",
+        "author": "Eduardo Galeano",
+        "link": "https://www.goodreads.com/review/show/1883392322?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348316471l/662961._SY75_.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017/01/14"
+      }
+    ],
+    "2018": [
+      {
+        "title": "Annihilation (Southern Reach, #1)",
+        "author": "Jeff VanderMeer",
+        "link": "https://www.goodreads.com/review/show/2641016004?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941587l/17934530._SX50_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/12/30"
+      },
+      {
+        "title": "Ideario",
+        "author": "Errico Malatesta",
+        "link": "https://www.goodreads.com/review/show/2641015479?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545925329l/43372871._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/12/27"
+      },
+      {
+        "title": "Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)",
+        "author": "Douglas Adams",
+        "link": "https://www.goodreads.com/review/show/2605111212?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397933521l/569429._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/12/01"
+      },
+      {
+        "title": "So Long, and Thanks for All the Fish (The Hitchhiker's Guide to the Galaxy, #4)",
+        "author": "Douglas Adams",
+        "link": "https://www.goodreads.com/review/show/2599131404?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873354l/6091075._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/11/25"
+      },
+      {
+        "title": "Life, the Universe and Everything (The Hitchhiker's Guide to the Galaxy, #3)",
+        "author": "Douglas Adams",
+        "link": "https://www.goodreads.com/review/show/2584688153?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333577589l/8694._SX50_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/11/19"
+      },
+      {
+        "title": "The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)",
+        "author": "Douglas Adams",
+        "link": "https://www.goodreads.com/review/show/2577258419?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881l/8695._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/11/04"
+      },
+      {
+        "title": "The Hitchhiker’s Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy, #1)",
+        "author": "Douglas Adams",
+        "link": "https://www.goodreads.com/review/show/2577254684?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559986152l/386162._SX50_SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/10/29"
+      },
+      {
+        "title": "Poesía completa",
+        "author": "Alejandra Pizarnik",
+        "link": "https://www.goodreads.com/review/show/2288212161?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369199656l/401060._SX50_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/09/28"
+      },
+      {
+        "title": "The Robots of Dawn (Robot, #3)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/2521997093?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351030933l/41810._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/09/12"
+      },
+      {
+        "title": "The Naked Sun (Robot, #2)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/2517511372?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655932374l/30016._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/09/03"
+      },
+      {
+        "title": "The Caves of Steel (Robot, #1)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/2511247942?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782224l/41811._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/08/29"
+      },
+      {
+        "title": "The Complete Robot (Robot, #0.3)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/2499193547?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405467461l/50091._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/08/25"
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "link": "https://www.goodreads.com/review/show/2422718251?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546419288l/15994711._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/07/10"
+      },
+      {
+        "title": "Guerilla Open Access Manifesto",
+        "author": "Aaron Swartz",
+        "link": "https://www.goodreads.com/review/show/2420919549?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/06/11"
+      },
+      {
+        "title": "History of Copyright",
+        "author": "Rick Falkvinge",
+        "link": "https://www.goodreads.com/review/show/2420920582?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398396117l/22010335._SX50_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/06/06"
+      },
+      {
+        "title": "Steal Like an Artist: 10 Things Nobody Told You About Being Creative",
+        "author": "Austin Kleon",
+        "link": "https://www.goodreads.com/review/show/2413152492?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404576602l/13099738._SX50_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/06/06"
+      },
+      {
+        "title": "Ana Karenina",
+        "author": "Leo Tolstoy",
+        "link": "https://www.goodreads.com/review/show/2328705046?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1310990516l/836159._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/06/04"
+      },
+      {
+        "title": "Diarios",
+        "author": "Alejandra Pizarnik",
+        "link": "https://www.goodreads.com/review/show/2288213676?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1277412601l/599721._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/04/11"
+      },
+      {
+        "title": "A Partir de Ahora El Combate Sera Libre (Spanish Edition)",
+        "author": "Rafael Barrett",
+        "link": "https://www.goodreads.com/review/show/2307264861?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697698041l/15249709._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/03/06"
+      },
+      {
+        "title": "The Travels",
+        "author": "Marco Polo",
+        "link": "https://www.goodreads.com/review/show/2211494154?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408527935l/22814478._SY75_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018/02/02"
+      }
+    ],
+    "2019": [
+      {
+        "title": "Nuestra parte de noche",
+        "author": "Mariana Enríquez",
+        "link": "https://www.goodreads.com/review/show/3092252636?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574172564l/48758708._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/12/19"
+      },
+      {
+        "title": "Permanent Record",
+        "author": "Edward Snowden",
+        "link": "https://www.goodreads.com/review/show/3020639935?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564666396l/46223297._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/11/30"
+      },
+      {
+        "title": "Forward the Foundation (Foundation, #7)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/3028208520?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430055209l/76679._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/10/28"
+      },
+      {
+        "title": "Prelude to Foundation",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/3004289165?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782474l/30013._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/10/07"
+      },
+      {
+        "title": "Pebble in the Sky (Galactic Empire, #3)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/2971712688?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335782053l/41820._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/09/09"
+      },
+      {
+        "title": "The Currents of Space (Galactic Empire, #2)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/2968629068?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328110000l/85434._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/09/08"
+      },
+      {
+        "title": "The Stars, Like Dust (Galactic Empire, #1)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/2965175058?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325310236l/41822._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/09/04"
+      },
+      {
+        "title": "Data Coaching: Un librito sobre datos y beneficios",
+        "author": "Eduardo Valencia Tirapu",
+        "link": "https://www.goodreads.com/review/show/2961882551?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1444327038l/26929332._SX50_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/09/02"
+      },
+      {
+        "title": "Stories of Your Life and Others",
+        "author": "Ted Chiang",
+        "link": "https://www.goodreads.com/review/show/2932456622?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138316l/223380._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/08/20"
+      },
+      {
+        "title": "El salto de papá",
+        "author": "Martín Sivak",
+        "link": "https://www.goodreads.com/review/show/2914241645?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501541085l/35889674._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/07/28"
+      },
+      {
+        "title": "La felicidad conyugal",
+        "author": "Leo Tolstoy",
+        "link": "https://www.goodreads.com/review/show/2907269621?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331667815l/13540505._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/07/25"
+      },
+      {
+        "title": "Yo también tuve una novia bisexual",
+        "author": "Guillermo Martínez",
+        "link": "https://www.goodreads.com/review/show/2845830811?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1336061820l/13632501._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/06/04"
+      },
+      {
+        "title": "The Fall of Gondolin (Middle-Earth Universe)",
+        "author": "J.R.R. Tolkien",
+        "link": "https://www.goodreads.com/review/show/2821838415?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535688410l/39798828._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/05/31"
+      },
+      {
+        "title": "Robots and Empire (Robot, #4)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/2788968302?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659946439l/76688._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/04/22"
+      },
+      {
+        "title": "Los dueños de internet: Cómo nos dominan los gigantes de la tecnología y qué hacer para cambiarlo",
+        "author": "Natalia Zuazo",
+        "link": "https://www.goodreads.com/review/show/2751295114?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1527392365l/40218321._SY75_.jpg",
+        "shelves": [
+          "2019",
+          "cyber-internet"
+        ],
+        "readAt": "2019/03/24"
+      },
+      {
+        "title": "Authority (Southern Reach, #2)",
+        "author": "Jeff VanderMeer",
+        "link": "https://www.goodreads.com/review/show/2646112222?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941730l/18077769._SX50_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/01/09"
+      },
+      {
+        "title": "Hadji Murád",
+        "author": "Leo Tolstoy",
+        "link": "https://www.goodreads.com/review/show/2905976089?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699901035l/135060._SX50_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/01/01"
+      },
+      {
+        "title": "The Kreutzer Sonata",
+        "author": "Leo Tolstoy",
+        "link": "https://www.goodreads.com/review/show/2897398001?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657554522l/141077._SY75_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/01/01"
+      },
+      {
+        "title": "Acceptance (Southern Reach, #3)",
+        "author": "Jeff VanderMeer",
+        "link": "https://www.goodreads.com/review/show/2666671058?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941598l/18077752._SX50_.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019/01/01"
+      }
+    ],
+    "2020": [
+      {
+        "title": "La muerte de Iván Ilich",
+        "author": "Leo Tolstoy",
+        "link": "https://www.goodreads.com/review/show/3719222356?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514968459l/36715356._SX50_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/12/27"
+      },
+      {
+        "title": "Los suicidas del fin del mundo: Crónica de un pueblo patagónico",
+        "author": "Leila Guerriero",
+        "link": "https://www.goodreads.com/review/show/3653095831?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668110390l/1618911._SX50_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/11/19"
+      },
+      {
+        "title": "Cómo provocar un incendio y por qué",
+        "author": "Jesse Ball",
+        "link": "https://www.goodreads.com/review/show/3626157003?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599330268l/55240294._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/11/02"
+      },
+      {
+        "title": "The Monster Enters: COVID-19, Avian Flu and the Plagues of Capitalism",
+        "author": "Mike  Davis",
+        "link": "https://www.goodreads.com/review/show/3617883683?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1587471081l/53237780._SX50_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/10/28"
+      },
+      {
+        "title": "Los cosacos",
+        "author": "Leo Tolstoy",
+        "link": "https://www.goodreads.com/review/show/3594383631?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368805920l/17930807._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/10/13"
+      },
+      {
+        "title": "Antología del cuento extraño 1 (Antología del cuento extraño #1)",
+        "author": "Rodolfo Walsh",
+        "link": "https://www.goodreads.com/review/show/3585760859?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318632273l/1582087._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/10/07"
+      },
+      {
+        "title": "Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones",
+        "author": "Críptica",
+        "link": "https://www.goodreads.com/review/show/3577661815?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1569936009l/45181036._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/10/02"
+      },
+      {
+        "title": "The Island of Dr. Moreau",
+        "author": "H.G. Wells",
+        "link": "https://www.goodreads.com/review/show/3513106687?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328147138l/6265974._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/08/24"
+      },
+      {
+        "title": "Cómo desaparecer completamente",
+        "author": "Mariana Enríquez",
+        "link": "https://www.goodreads.com/review/show/3513102507?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1266864729l/6759914._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/08/24"
+      },
+      {
+        "title": "Shadow Libraries: Access to Knowledge in Global Higher Education (International Development Research Centre)",
+        "author": "Joe Karaganis",
+        "link": "https://www.goodreads.com/review/show/3509780576?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524470770l/36722660._SX50_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/08/22"
+      },
+      {
+        "title": "Los crímenes de Alicia",
+        "author": "Guillermo Martínez",
+        "link": "https://www.goodreads.com/review/show/3433060853?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549162888l/43634535._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/07/08"
+      },
+      {
+        "title": "¿Por qué el capitalismo puede soñar y nosotros no?: Breve manual de las ideas de izquierda para pensar el futuro (Singular) (Spanish Edition)",
+        "author": "Alejandro Galliano",
+        "link": "https://www.goodreads.com/review/show/3360987591?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585829969l/52890203._SY75_.jpg",
+        "shelves": [
+          "2020",
+          "cyber-internet"
+        ],
+        "readAt": "2020/06/08"
+      },
+      {
+        "title": "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
+        "author": "Cathy O'Neil",
+        "link": "https://www.goodreads.com/review/show/3281514946?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456091964l/28186015._SX50_.jpg",
+        "shelves": [
+          "2020",
+          "cyber-internet"
+        ],
+        "readAt": "2020/04/14"
+      },
+      {
+        "title": "The World Without Us",
+        "author": "Alan Weisman",
+        "link": "https://www.goodreads.com/review/show/3265401403?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1441986417l/248787._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/04/05"
+      },
+      {
+        "title": "Fake news, trolls y otros encantos: cómo funcionan (para bien y para mal) las redes sociales",
+        "author": "Ernesto Calvo",
+        "link": "https://www.goodreads.com/review/show/3258358347?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585706495l/52861410._SY75_.jpg",
+        "shelves": [
+          "2020",
+          "cyber-internet"
+        ],
+        "readAt": "2020/04/01"
+      },
+      {
+        "title": "Big data: breve manual para conocer la ciencia de datos que ya invadió nuestras vidas",
+        "author": "Walter Sosa Escudero",
+        "link": "https://www.goodreads.com/review/show/3258352972?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558725965l/46006669._SX50_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/03/29"
+      },
+      {
+        "title": "Los miserables",
+        "author": "Victor Hugo",
+        "link": "https://www.goodreads.com/review/show/3240304164?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546542443l/43455133._SX50_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/03/21"
+      },
+      {
+        "title": "Foundation and Earth (Foundation, #5)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/3181116948?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389759320l/29582._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/02/07"
+      },
+      {
+        "title": "Foundation's Edge (Foundation, #4)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/3176176325?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442311409l/76683._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/02/04"
+      },
+      {
+        "title": "Second Foundation (Foundation, #3)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/3164002977?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661015922l/29580._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/01/27"
+      },
+      {
+        "title": "Foundation and Empire (Foundation, #2)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/3155381555?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391454612l/29581._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/01/22"
+      },
+      {
+        "title": "Foundation (Foundation, #1)",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/3147223282?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SX50_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/01/17"
+      },
+      {
+        "title": "Las palabras andantes",
+        "author": "Eduardo Galeano",
+        "link": "https://www.goodreads.com/review/show/3133441316?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348957100l/1073109._SY75_.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020/01/09"
+      }
+    ],
+    "2021": [
+      {
+        "title": "Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside",
+        "author": "Xiaowei Wang",
+        "link": "https://www.goodreads.com/review/show/4184718404?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585632441l/50403472._SY75_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/08/28"
+      },
+      {
+        "title": "Los peces no conocen el agua",
+        "author": "Various",
+        "link": "https://www.goodreads.com/review/show/4078774290?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1611417750l/56793246._SX50_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/06/25"
+      },
+      {
+        "title": "Canción",
+        "author": "Eduardo Halfon",
+        "link": "https://www.goodreads.com/review/show/4010885186?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610049838l/56586710._SY75_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/05/19"
+      },
+      {
+        "title": "Memoria del fuego 2. Las caras y las máscaras",
+        "author": "Eduardo Galeano",
+        "link": "https://www.goodreads.com/review/show/3963474631?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347776984l/458365._SY75_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/04/24"
+      },
+      {
+        "title": "Do What You Want: The Story of Bad Religion",
+        "author": "Bad Religion",
+        "link": "https://www.goodreads.com/review/show/4005504337?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578779656l/50358100._SY75_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/03/24"
+      },
+      {
+        "title": "Historias de San Petersburgo",
+        "author": "Nikolai Gogol",
+        "link": "https://www.goodreads.com/review/show/3897112877?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480441131l/238352._SY75_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/03/18"
+      },
+      {
+        "title": "Jorge Luis Borges: The Last Interview and Other Conversations",
+        "author": "Jorge Luis Borges",
+        "link": "https://www.goodreads.com/review/show/3888244220?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1345767609l/15823474._SX50_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/03/16"
+      },
+      {
+        "title": "X-Risk: How Humanity Discovered Its Own Extinction",
+        "author": "Thomas Moynihan",
+        "link": "https://www.goodreads.com/review/show/3888239972?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596712452l/54832738._SY75_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/03/13"
+      },
+      {
+        "title": "Ten Arguments for Deleting Your Social Media Accounts Right Now",
+        "author": "Jaron Lanier",
+        "link": "https://www.goodreads.com/review/show/3876296016?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526958131l/37830765._SY75_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/03/06"
+      },
+      {
+        "title": "Seres queridos",
+        "author": "Vera Giaconi",
+        "link": "https://www.goodreads.com/review/show/3863740421?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490945732l/34651550._SY75_.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021/02/27"
+      }
+    ],
+    "2022": [
+      {
+        "title": "Neuromancer (Sprawl, #1)",
+        "author": "William Gibson",
+        "link": "https://www.goodreads.com/review/show/5101033175?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554437249l/6088007._SY75_.jpg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022/11/12"
+      },
+      {
+        "title": "Sostener el cielo",
+        "author": "Liu Cixin",
+        "link": "https://www.goodreads.com/review/show/4828213472?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619941403l/57916614._SY75_.jpg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022/07/05"
+      },
+      {
+        "title": "Magnetizado",
+        "author": "Carlos Busqued",
+        "link": "https://www.goodreads.com/review/show/4748736451?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519312025l/38721127._SY75_.jpg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022/05/27"
+      },
+      {
+        "title": "El tercer mundo después del sol",
+        "author": "Rodrigo Bastidas",
+        "link": "https://www.goodreads.com/review/show/4687510632?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612294972l/56930087._SX50_.jpg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022/04/22"
+      },
+      {
+        "title": "Dune (Dune, #1)",
+        "author": "Frank Herbert",
+        "link": "https://www.goodreads.com/review/show/4385287118?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SY75_.jpg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022/02/20"
+      }
+    ],
+    "2023": [
+      {
+        "title": "Nosotros contra ellos: Cómo trabajan las redes para confirmar nuestras creencias y rechazar las de los otros (Sociología y Política) (Spanish Edition)",
+        "author": "Natalia Aruguete",
+        "link": "https://www.goodreads.com/review/show/5818519052?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693964974l/197713775._SX50_.jpg",
+        "shelves": [
+          "cyber-internet",
+          "2023"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "Los días del fuego (La saga de los confines, #3)",
+        "author": "Liliana Bodoc",
+        "link": "https://www.goodreads.com/review/show/5940634321?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1745362099l/2141382._SY75_.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "Los días de la sombra (La saga de los confines, #2)",
+        "author": "Liliana Bodoc",
+        "link": "https://www.goodreads.com/review/show/5861959575?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428869012l/2141381._SY75_.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023/09/23"
+      },
+      {
+        "title": "Los días del venado (La saga de los confines, #1)",
+        "author": "Liliana Bodoc",
+        "link": "https://www.goodreads.com/review/show/5801865407?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356556607l/2141384._SY75_.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023/08/31"
+      },
+      {
+        "title": "Demian: Historia de la juventud de Emil Sinclair (El libro de bolsillo - Bibliotecas de autor - Biblioteca Hesse nº 3118) (Spanish Edition)",
+        "author": "Hermann Hesse",
+        "link": "https://www.goodreads.com/review/show/5507568118?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665679527l/62984137._SY75_.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023/04/29"
+      },
+      {
+        "title": "Create Dangerously",
+        "author": "Albert Camus",
+        "link": "https://www.goodreads.com/review/show/5507564806?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647293218l/36436073._SX50_.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023/04/24"
+      },
+      {
+        "title": "Contra el Homo Resignatus: Siete ensayos para reinventar la rebeldía política en un mundo invadido por el desencanto (Sociología y Política) (Spanish Edition)",
+        "author": "Lucas Rubinich",
+        "link": "https://www.goodreads.com/review/show/5363578468?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662242138l/62235640._SX50_.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023/02/21"
+      },
+      {
+        "title": "The Wandering Earth",
+        "author": "Liu Cixin",
+        "link": "https://www.goodreads.com/review/show/5342127301?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475443808l/32332537._SY75_.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023/02/12"
+      },
+      {
+        "title": "Amor y anarquismo",
+        "author": "Laura Fernández Cordero",
+        "link": "https://www.goodreads.com/review/show/5268960125?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511653950l/36662096._SX50_.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023/01/22"
+      },
+      {
+        "title": "The Fall of Númenor: and Other Tales from the Second Age of Middle-earth",
+        "author": "J.R.R. Tolkien",
+        "link": "https://www.goodreads.com/review/show/5247192969?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655994436l/61331094._SY75_.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023/01/14"
+      }
+    ],
+    "2024": [
+      {
+        "title": "北京折叠",
+        "author": "Hao Jingfang",
+        "link": "https://www.goodreads.com/review/show/6392890405?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473039722l/31838014._SX50_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "Un lugar soleado para gente sombría",
+        "author": "Mariana Enríquez",
+        "link": "https://www.goodreads.com/review/show/6379598776?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712359779l/206801768._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "The Peripheral (Jackpot #1)",
+        "author": "William Gibson",
+        "link": "https://www.goodreads.com/review/show/5890946766?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574084339l/24611819._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "The Dispossessed",
+        "author": "Ursula K. Le Guin",
+        "link": "https://www.goodreads.com/review/show/6257623788?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357434680l/756970._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "Small Memories",
+        "author": "José Saramago",
+        "link": "https://www.goodreads.com/review/show/6769297462?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677905258l/75146532._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "La infancia del mundo",
+        "author": "Michel Nieva",
+        "link": "https://www.goodreads.com/review/show/5837851560?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674068679l/80070444._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "Should We Go Extinct?: A Philosophical Dilemma for Our Unbearable Times",
+        "author": "Todd  May",
+        "link": "https://www.goodreads.com/review/show/6808365214?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709927670l/202950655._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024/10/28"
+      },
+      {
+        "title": "Está entre nosotros: ¿De dónde sale y hasta dónde puede llegar la extrema derecha que no vimos venir?",
+        "author": "Pablo Semán",
+        "link": "https://www.goodreads.com/review/show/6808355361?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701200812l/202885125._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024/10/06"
+      },
+      {
+        "title": "Realismo capitalista: ¿No hay alternativa?",
+        "author": "Mark Fisher",
+        "link": "https://www.goodreads.com/review/show/6769302096?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675203332l/30325260._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024/09/12"
+      },
+      {
+        "title": "Los fantasmas de mi vida: Escritos sobre depresión, hauntología y futuros perdidos",
+        "author": "Mark Fisher",
+        "link": "https://www.goodreads.com/review/show/6769304613?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520197567l/38937969._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024/09/07"
+      },
+      {
+        "title": "Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World",
+        "author": "Joseph Menn",
+        "link": "https://www.goodreads.com/review/show/6617057321?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543035549l/42283862._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024/07/14"
+      },
+      {
+        "title": "La vida es un arma",
+        "author": "Rafael Barrett",
+        "link": "https://www.goodreads.com/review/show/6608301414?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719096071l/109015284._SX50_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024/06/23"
+      },
+      {
+        "title": "El fin de la muerte (Trilogía de los tres cuerpos, #3)",
+        "author": "Liu Cixin",
+        "link": "https://www.goodreads.com/review/show/6552960025?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538051959l/32827109._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024/06/17"
+      },
+      {
+        "title": "El bosque oscuro (Trilogía de los tres cuerpos, #2)",
+        "author": "Liu Cixin",
+        "link": "https://www.goodreads.com/review/show/6535516334?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508781967l/32827084._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024/06/01"
+      },
+      {
+        "title": "The Three-Body Problem (Remembrance of Earth’s Past, #1)",
+        "author": "Liu Cixin",
+        "link": "https://www.goodreads.com/review/show/6535514034?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024/05/26"
+      }
+    ],
+    "2025": [
+      {
+        "title": "The Bezzle (Martin Hench, #2)",
+        "author": "Cory Doctorow",
+        "link": "https://www.goodreads.com/review/show/7597108397?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1690390791l/127306588._SY75_.jpg",
+        "shelves": [
+          "currently-reading",
+          "2025"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "Jumpnauts",
+        "author": "Hao Jingfang",
+        "link": "https://www.goodreads.com/review/show/6426640277?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686503982l/176529446._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "Cadáver exquisito",
+        "author": "Agustina Bazterrica",
+        "link": "https://www.goodreads.com/review/show/7246824069?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512135750l/36696699._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "Red Team Blues (Martin Hench, #1)",
+        "author": "Cory Doctorow",
+        "link": "https://www.goodreads.com/review/show/7597108380?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681104878l/60784417._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/06/07"
+      },
+      {
+        "title": "The Gods Themselves",
+        "author": "Isaac Asimov",
+        "link": "https://www.goodreads.com/review/show/6189362277?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351076141l/41821._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/05/24"
+      },
+      {
+        "title": "El buen mal",
+        "author": "Samanta Schweblin",
+        "link": "https://www.goodreads.com/review/show/7508076183?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741363126l/222992769._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/05/03"
+      },
+      {
+        "title": "The Man in the High Castle",
+        "author": "Philip K. Dick",
+        "link": "https://www.goodreads.com/review/show/4807125566?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448756803l/216363._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/04/26"
+      },
+      {
+        "title": "Geometry for Ocelots",
+        "author": "Exurb1a",
+        "link": "https://www.goodreads.com/review/show/7382038361?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622651140l/58245377._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/04/13"
+      },
+      {
+        "title": "The Fifth Science",
+        "author": "Exurb1a",
+        "link": "https://www.goodreads.com/review/show/7382040264?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535736994l/41580260._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/04/03"
+      },
+      {
+        "title": "Logic Beach: Part I",
+        "author": "Exurb1a",
+        "link": "https://www.goodreads.com/review/show/7382036108?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512496588l/36944280._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/03/22"
+      },
+      {
+        "title": "Valuable Humans in Transit and Other Stories",
+        "author": "qntm",
+        "link": "https://www.goodreads.com/review/show/7281106439?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667328934l/63198504._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/03/16"
+      },
+      {
+        "title": "There Is No Antimemetics Division",
+        "author": "qntm",
+        "link": "https://www.goodreads.com/review/show/7271050172?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597056415l/54870256._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/02/02"
+      }
+    ]
+  }
+}

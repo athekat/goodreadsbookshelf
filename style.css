@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    color: #0056b3;
+}
+
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.book-item {
+    display: flex;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.book-item:last-child {
+    border-bottom: none;
+}
+
+.book-item img {
+    margin-right: 15px;
+    border-radius: 4px;
+}
+
+.book-details h3 {
+    margin: 0 0 5px 0;
+    color: #333;
+}
+
+.book-details p {
+    margin: 0;
+    font-size: 0.9em;
+    color: #666;
+}
