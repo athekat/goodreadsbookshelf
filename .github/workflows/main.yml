@@ -1,0 +1,20 @@
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+jobs:
+  download-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Python script
+        run: |
+          python fetchbooks.py
+      - name: Commit changes
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add bookshelf.json
+          git commit -m "Update date to $(date +%Y-%m-%d)" || echo "No changes to commit"
+      - name: Push changes
+        run: git push
