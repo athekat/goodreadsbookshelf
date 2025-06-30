@@ -96,9 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     </a>
                     <div class="book-details">
                         <h3><a href="${book.link}" target="_blank">${book.title}</a></h3>
-                        <p>by ${book.author}</p>
-                        // ${book.readAt ? `<p>Finished: ${book.readAt}</p>` : ''
-                        }
+                        <p>by ${book.author}</p>}
                     </div>
                 `;
                 booksList.appendChild(bookDiv);
