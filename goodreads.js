@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        sortedYears.forEach(year => {
+        sortedYears.slice(0, 2).forEach(year => { // .slice(0, 2) trae solo este año y el pasado
             const yearSection = document.createElement('div');
             yearSection.classList.add('year-section');
             yearSection.innerHTML = `<h3>${year}</h3>`;
