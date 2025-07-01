@@ -1,16 +1,6 @@
 {
   "currentlyReading": [
     {
-      "title": "Picks and Shovels (Martin Hench, #3)",
-      "author": "Cory Doctorow",
-      "link": "https://www.goodreads.com/review/show/7597108418?utm_medium=api&utm_source=rss",
-      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733859351l/211004856._SY75_.jpg",
-      "shelves": [
-        "currently-reading"
-      ],
-      "readAt": null
-    },
-    {
       "title": "After the Future",
       "author": "Franco \"Bifo\" Berardi",
       "link": "https://www.goodreads.com/review/show/7065579818?utm_medium=api&utm_source=rss",
@@ -2108,6 +2098,16 @@
           "2025"
         ],
         "readAt": null
+      },
+      {
+        "title": "Picks and Shovels (Martin Hench, #3)",
+        "author": "Cory Doctorow",
+        "link": "https://www.goodreads.com/review/show/7597108418?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733859351l/211004856._SY75_.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025/06/29"
       },
       {
         "title": "The Bezzle (Martin Hench, #2)",
