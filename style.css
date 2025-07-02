@@ -14,6 +14,16 @@ h1, h2 {
     color: #63b3ff;
 }
 
+main {
+    margin: 0 25%;
+}
+
+@media only screen and (max-width: 800px) {
+    main {
+        margin: 0;
+}
+}
+
 section {
     background-color: #181e24;
     padding: 20px;
