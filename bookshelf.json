@@ -1938,16 +1938,6 @@
     ],
     "2024": [
       {
-        "title": "北京折叠",
-        "author": "Hao Jingfang",
-        "link": "https://www.goodreads.com/review/show/6392890405?utm_medium=api&utm_source=rss",
-        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473039722l/31838014._SX50_.jpg",
-        "shelves": [
-          "2024"
-        ],
-        "readAt": null
-      },
-      {
         "title": "Un lugar soleado para gente sombría",
         "author": "Mariana Enríquez",
         "link": "https://www.goodreads.com/review/show/6379598776?utm_medium=api&utm_source=rss",
@@ -1992,6 +1982,16 @@
         "author": "Michel Nieva",
         "link": "https://www.goodreads.com/review/show/5837851560?utm_medium=api&utm_source=rss",
         "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674068679l/80070444._SY75_.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": null
+      },
+      {
+        "title": "Entre los pliegues de Pekín",
+        "author": "Hao Jingfang",
+        "link": "https://www.goodreads.com/review/show/6392890405?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584186590l/52371087._SY75_.jpg",
         "shelves": [
           "2024"
         ],
