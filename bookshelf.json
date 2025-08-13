@@ -1,6 +1,16 @@
 {
   "currentlyReading": [
     {
+      "title": "Cuentos completos",
+      "author": "Rodolfo Enrique Fogwill",
+      "link": "https://www.goodreads.com/review/show/7821408525?utm_medium=api&utm_source=rss",
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402067923l/6980503._SY75_.jpg",
+      "shelves": [
+        "currently-reading"
+      ],
+      "readAt": null
+    },
+    {
       "title": "Real-World Bug Hunting: A Field Guide to Web Hacking",
       "author": "Peter Yaworski",
       "link": "https://www.goodreads.com/review/show/7751273331?utm_medium=api&utm_source=rss",
