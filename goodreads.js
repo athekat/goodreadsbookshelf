@@ -111,9 +111,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
         document.querySelectorAll('.toggle-button').forEach(button => {
             button.addEventListener('click', function() {
+                booksList.classList.toggle('hidden');
                 const year = this.getAttribute('data-year');
                 const booksList = document.getElementById(`books-${year}`);
-                booksList.classList.toggle('hidden');
+                
 
                 if (booksList.classList.contains('hidden')) {
                     this.innerHTML = `&#9660;`;
