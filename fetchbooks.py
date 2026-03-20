@@ -10,7 +10,7 @@ GOODREADS_USER_ID = '39570859' # Replace with your actual Goodreads User ID
 CURRENTLY_READING_SHELF_RSS_URL = f'https://www.goodreads.com/review/list_rss/{GOODREADS_USER_ID}?shelf=currently-reading'
 # Define the years you want to fetch. Adjust as needed.
 # This assumes you have shelves named '2022', '2023', etc.
-YEARS_TO_FETCH = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025] # Add or remove years as per your data
+YEARS_TO_FETCH = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026] # Add or remove years as per your data
 
 OUTPUT_FILE = 'bookshelf.json' # Path where the JSON will be saved
 
