@@ -1,10 +1,10 @@
 {
   "currentlyReading": [
     {
-      "title": "La última vez",
+      "title": "Un crímen dialéctico (Spanish Edition)",
       "author": "Guillermo Martínez",
-      "link": "https://www.goodreads.com/review/show/8553245656?utm_medium=api&utm_source=rss",
-      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647118738l/60599518._SY75_.jpg",
+      "link": "https://www.goodreads.com/review/show/8553246817?utm_medium=api&utm_source=rss",
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774964361l/250464650._SY75_.jpg",
       "shelves": [
         "currently-reading"
       ],
@@ -1814,7 +1814,7 @@
       },
       {
         "title": "Dune (Dune, #1)",
-        "author": "Frank Herbert",
+        "author": "Frank Patrick Herbert",
         "link": "https://www.goodreads.com/review/show/4385287118?utm_medium=api&utm_source=rss",
         "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SY75_.jpg",
         "shelves": [
@@ -2221,6 +2221,16 @@
       }
     ],
     "2026": [
+      {
+        "title": "La última vez",
+        "author": "Guillermo Martínez",
+        "link": "https://www.goodreads.com/review/show/8553245656?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647118738l/60599518._SY75_.jpg",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": "2026/05/23"
+      },
       {
         "title": "La mecha encendida (Filo y Contrafilo) (Spanish Edition)",
         "author": "Ramón D. Tarruella",
