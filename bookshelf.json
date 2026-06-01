@@ -1,16 +1,5 @@
 {
-  "currentlyReading": [
-    {
-      "title": "Un crímen dialéctico (Spanish Edition)",
-      "author": "Guillermo Martínez",
-      "link": "https://www.goodreads.com/review/show/8553246817?utm_medium=api&utm_source=rss",
-      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774964361l/250464650._SY75_.jpg",
-      "shelves": [
-        "currently-reading"
-      ],
-      "readAt": null
-    }
-  ],
+  "currentlyReading": [],
   "readBooksByYear": {
     "2015": [
       {
@@ -2221,6 +2210,16 @@
       }
     ],
     "2026": [
+      {
+        "title": "Un crímen dialéctico (Spanish Edition)",
+        "author": "Guillermo Martínez",
+        "link": "https://www.goodreads.com/review/show/8553246817?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774964361l/250464650._SY75_.jpg",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": "2026/05/31"
+      },
       {
         "title": "La última vez",
         "author": "Guillermo Martínez",
