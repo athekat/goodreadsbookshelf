@@ -2211,6 +2211,16 @@
     ],
     "2026": [
       {
+        "title": "Solaris",
+        "author": "Stanisław Lem",
+        "link": "https://www.goodreads.com/review/show/7489345836?utm_medium=api&utm_source=rss",
+        "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498631519l/95558._SX50_.jpg",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": null
+      },
+      {
         "title": "The Hospital at the End of the World",
         "author": "Justin C. Key",
         "link": "https://www.goodreads.com/review/show/8408452552?utm_medium=api&utm_source=rss",
