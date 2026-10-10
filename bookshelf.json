@@ -1,5 +1,16 @@
 {
-  "currentlyReading": [],
+  "currentlyReading": [
+    {
+      "title": "The Minority Report",
+      "author": "Philip K. Dick",
+      "link": "https://www.goodreads.com/review/show/2021993893?utm_medium=api&utm_source=rss",
+      "imageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390719396l/581125._SY75_.jpg",
+      "shelves": [
+        "currently-reading"
+      ],
+      "readAt": null
+    }
+  ],
   "readBooksByYear": {
     "2015": [
       {
