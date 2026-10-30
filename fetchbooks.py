@@ -8,7 +8,7 @@ GOODREADS_USER_ID = '39570859'
 OUTPUT_FILE = 'bookshelf.json'
 
 # Target the standard HTML list view, forcing 100 items per page
-URL_TEMPLATE = f'https://goodreads.com{GOODREADS_USER_ID}?shelf={{shelf}}&per_page=100'
+URL_TEMPLATE = f'https://goodreads.com/review/list/{GOODREADS_USER_ID}?shelf={{shelf}}&per_page=100'
 
 YEARS_TO_FETCH = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
 
