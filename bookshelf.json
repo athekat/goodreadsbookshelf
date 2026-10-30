@@ -1,4 +1,3289 @@
 {
   "currentlyReading": [],
-  "readBooksByYear": {}
+  "readBooksByYear": {
+    "2017": [
+      {
+        "title": "Voto electrónico: una solución en busca de problemas",
+        "author": "Beatriz Busaniche",
+        "link": "https://hardcover.appvoto-electronico",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496884/7ba303123c079377c6f7ec713296d2900e67e48d.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-04-10"
+      },
+      {
+        "title": "La revolución es un sueño eterno",
+        "author": "Andrés Rivera",
+        "link": "https://hardcover.appla-revolucion-es-un-sueno-eterno",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496879/91d39e0ea54c06eab5a1ce0b3678b68a8b347c7b.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-03-20"
+      },
+      {
+        "title": "El Nuevo Desorden Mundial",
+        "author": "Tzvetan Todorov",
+        "link": "https://hardcover.appel-nuevo-desorden-mundial",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496878/d9af7ca8d808180f4b476a3c9aaaa785b709d30f.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-11-12"
+      },
+      {
+        "title": "El Dolor Paraguayo",
+        "author": "Rafael Barrett",
+        "link": "https://hardcover.appel-dolor-paraguayo",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496873/051ce03dab39912041dea35259e3c82dc6846e74.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-10-09"
+      },
+      {
+        "title": "Crepusculario/El Hondero Entusiasta /Tentativa del Hombre Infinito",
+        "author": "Pablo Neruda",
+        "link": "https://hardcover.appcrepusculario-el-hondero-entusiasta-tentativa-del-hombre-infinito",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496875/bfcc76abf87ecf34db90e0499c0ba9968ba5708b.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-01-21"
+      },
+      {
+        "title": "Death by Video Game: Tales of Obsession from the Virtual Frontline",
+        "author": "Simon Parkin",
+        "link": "https://hardcover.appdeath-by-video-game-tales-of-obsession-from-the-virtual-frontline",
+        "imageUrl": "",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-01-23"
+      },
+      {
+        "title": "The Book of Fantasy",
+        "author": "Jorge Luis Borges",
+        "link": "https://hardcover.appthe-book-of-fantasy-1940",
+        "imageUrl": "https://assets.hardcover.app/edition/6785141/b53d4960-3c55-41c7-8d5c-915851c0d43d.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-12-30"
+      },
+      {
+        "title": "El traductor",
+        "author": "Salvador Benesdra",
+        "link": "https://hardcover.appel-traductor-1998",
+        "imageUrl": "https://assets.hardcover.app/external_data/60421647/339c849874722d596594a8b391b2cbda4f1f0688.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-02-13"
+      },
+      {
+        "title": "The Lifecycle of Software Objects",
+        "author": "Ted Chiang",
+        "link": "https://hardcover.appthe-lifecycle-of-software-objects",
+        "imageUrl": "https://assets.hardcover.app/editions/11892564/e9417461-e7bf-47ef-8514-95baebae9ef4.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-05-22"
+      },
+      {
+        "title": "Bocas del tiempo: La escuela del mundo al revés",
+        "author": "Eduardo Galeano",
+        "link": "https://hardcover.appbocas-del-tiempo",
+        "imageUrl": "https://assets.hardcover.app/edition/20988030/081484fa873a274d6b6c195672245d2eb781eb7b.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-01-17"
+      },
+      {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "link": "https://hardcover.appto-the-lighthouse",
+        "imageUrl": "https://assets.hardcover.app/edition/18970180/7335767e23690cf6477d0039e5730b6277d4417e.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-06-19"
+      },
+      {
+        "title": "The Minority Report",
+        "author": "Philip K. Dick",
+        "link": "https://hardcover.appthe-minority-report-1956",
+        "imageUrl": "https://assets.hardcover.app/external_data/3760899/1aafb0f9c15e3148178515324c9b08098e50c383.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-06-06"
+      },
+      {
+        "title": "Éste es el mar",
+        "author": "Mariana Enriquez",
+        "link": "https://hardcover.appeste-es-el-mar",
+        "imageUrl": "https://assets.hardcover.app/edition/31146648/648b7ba5e4613f364a9e236409bb323c047dae50.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-12-11"
+      },
+      {
+        "title": "El limonero real",
+        "author": "Juan José Saer",
+        "link": "https://hardcover.appel-limonero-real",
+        "imageUrl": "https://assets.hardcover.app/external_data/60446529/9f2435f85f05443793d29c8faa7c6f8ab5b051a0.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-06-16"
+      },
+      {
+        "title": "Beren and Lúthien",
+        "author": "J.R.R. Tolkien",
+        "link": "https://hardcover.appberen-and-luthien",
+        "imageUrl": "https://assets.hardcover.app/edition/30655494/8c1ef0c2-3cb1-401a-b823-6bdea4319665.jpg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-07-26"
+      },
+      {
+        "title": "Guerras de internet: Un viaje al centro de la red para entender cómo afecta tu vida",
+        "author": "Natalia Zuazo",
+        "link": "https://hardcover.appguerras-de-internet-un-viaje-al-centro-de-la-red-para-entender-como-afecta-tu-vida",
+        "imageUrl": "https://assets.hardcover.app/edition/33113279/4a7286101a390bf1af534115b1b1e3a6cbb32471.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-08-09"
+      },
+      {
+        "title": "Siete casas vacías",
+        "author": "Samanta Schweblin",
+        "link": "https://hardcover.appsiete-casas-vacias",
+        "imageUrl": "https://assets.hardcover.app/edition/30543486/ca77dd8e4a47c8af9b81f0db3a2f36804bb2339a.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-01-17"
+      },
+      {
+        "title": "Distancia de rescate",
+        "author": "Samanta Schweblin",
+        "link": "https://hardcover.appdistancia-de-rescate",
+        "imageUrl": "https://assets.hardcover.app/edition/30456519/8c5cdedd565093b5d2b8ebf5e28b8ece4e93b4da.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-04-13"
+      },
+      {
+        "title": "The Travels",
+        "author": "Marco Polo",
+        "link": "https://hardcover.appthe-travels-1285",
+        "imageUrl": "https://assets.hardcover.app/edition/22610028/6deceafee9ede1a72232a35ad79f71e82c38668a.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-12-11"
+      },
+      {
+        "title": "Residencia en la tierra",
+        "author": "Pablo Neruda",
+        "link": "https://hardcover.appresidencia-en-la-tierra",
+        "imageUrl": "https://assets.hardcover.app/edition/32211469/12ac9a6a5d6591b43aeb51a8c0d61f1dcf649c1e.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-02-04"
+      },
+      {
+        "title": "Bajar es lo peor",
+        "author": "Mariana Enriquez",
+        "link": "https://hardcover.appbajar-es-lo-peor-1995",
+        "imageUrl": "https://assets.hardcover.app/external_data/60289056/8ef2ad2119bba810003d0a0990142b99c559f652.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-07-17"
+      },
+      {
+        "title": "Liquid Surveillance: A Conversation",
+        "author": "Zygmunt Bauman",
+        "link": "https://hardcover.appliquid-surveillance",
+        "imageUrl": "https://assets.hardcover.app/external_data/59843907/05019e7ec297aa39a7028ea296a414ece213f98a.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-02-05"
+      },
+      {
+        "title": "The Dangers of Smoking in Bed: Stories",
+        "author": "Megan McDowell",
+        "link": "https://hardcover.appthe-dangers-of-smoking-in-bed",
+        "imageUrl": "https://assets.hardcover.app/edition/30477843/6a64569eb78b679420f1ba417e0cbd6375a3a3a6.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-09-04"
+      },
+      {
+        "title": "The Shock Doctrine: The Rise of Disaster Capitalism",
+        "author": "Naomi Klein",
+        "link": "https://hardcover.appthe-shock-doctrine",
+        "imageUrl": "https://assets.hardcover.app/edition/9457466/0c367cf942ae3103dcb59a1ff3f474217e2db5b2.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-07-17"
+      },
+      {
+        "title": "El Farmer",
+        "author": "Andrés Rivera",
+        "link": "https://hardcover.appel-farmer",
+        "imageUrl": "https://assets.hardcover.app/edition/32582143/93fff50c583a6be479f17a139326fd9258a6113c.jpeg",
+        "shelves": [
+          "2017"
+        ],
+        "readAt": "2017-04-10"
+      }
+    ],
+    "2016": [
+      {
+        "title": "La Conquista de America",
+        "author": "Tzvetan Todorov",
+        "link": "https://hardcover.appla-conquista-de-america",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496883/73039339e1ead1deee7d16c068c10e88dc1e7fdc.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-11-28"
+      },
+      {
+        "title": "Nuevas aguafuertes",
+        "author": "Roberto Arlt",
+        "link": "https://hardcover.appnuevas-aguafuertes",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496860/ec97e439bf67a59d429d06bdbb162454ab343010.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-02-10"
+      },
+      {
+        "title": "Ready Player One",
+        "author": "Ernest Cline",
+        "link": "https://hardcover.appready-player-one",
+        "imageUrl": "https://assets.hardcover.app/edition/30426366/12fd6daa-8487-471f-a962-58dd815420df.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-01-02"
+      },
+      {
+        "title": "Discourse On The Origin Of Inequality",
+        "author": "Jean-Jacques Rousseau",
+        "link": "https://hardcover.appdiscourse-on-the-origin-of-inequality",
+        "imageUrl": "https://assets.hardcover.app/external_data/24942088/ec34add5bdee53f80deef9f4dc9335a725e708d2.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-04-13"
+      },
+      {
+        "title": "Bolonqui: El fin del mundo en 1910",
+        "author": "Leonardo Oyola",
+        "link": "https://hardcover.appbolonqui",
+        "imageUrl": "https://assets.hardcover.app/edition/31975119/95b781d80c9aaf5bb10a09ec436eb3f2ca1d6899.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-07-07"
+      },
+      {
+        "title": "Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream",
+        "author": "Hunter S. Thompson",
+        "link": "https://hardcover.appfear-and-loathing-in-las-vegas",
+        "imageUrl": "https://assets.hardcover.app/edition/3052562/8ee88616-2541-4a25-8d95-46421ea4980b.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-04-22"
+      },
+      {
+        "title": "A Portrait of the Artist as a Young Man",
+        "author": "James Joyce",
+        "link": "https://hardcover.appa-portrait-of-the-artist-as-a-young-man",
+        "imageUrl": "https://assets.hardcover.app/edition/30133589/832b32e3-b290-404c-a2fb-1d10d6d28862.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-11-07"
+      },
+      {
+        "title": "Do Androids Dream of Electric Sheep?",
+        "author": "Philip K. Dick",
+        "link": "https://hardcover.appdo-androids-dream-of-electric-sheep",
+        "imageUrl": "https://assets.hardcover.app/editions/24366858/2403087114756371-912qCxdgTRL._SL1500_.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-01-03"
+      },
+      {
+        "title": "Pájaros en la boca",
+        "author": "Samanta Schweblin",
+        "link": "https://hardcover.apppajaros-en-la-boca",
+        "imageUrl": "https://assets.hardcover.app/edition/30543492/b718a127-93dd-46e8-a913-a6f68099a846.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-12-06"
+      },
+      {
+        "title": "Ho Chi Minh: A Life",
+        "author": "William J. Duiker",
+        "link": "https://hardcover.appho-chi-minh-a-life",
+        "imageUrl": "https://assets.hardcover.app/edition/30423624/546322-L.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-04-08"
+      },
+      {
+        "title": "The Beautiful and Damned",
+        "author": "F. Scott Fitzgerald",
+        "link": "https://hardcover.appthe-beautiful-and-damned",
+        "imageUrl": "https://assets.hardcover.app/editions/31405246/7333117380070922.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-10-26"
+      },
+      {
+        "title": "Islands in the Stream",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appislands-in-the-stream",
+        "imageUrl": "https://assets.hardcover.app/edition/3893777/60c9af161d4e7c1586c97c86e0e1036442fec6c5.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-02-10"
+      },
+      {
+        "title": "To Have and Have Not",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appto-have-and-have-not",
+        "imageUrl": "https://assets.hardcover.app/edition/7440730/4fb9288dc21118c2c26083cdafee6b54c8e0c6bf.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-02-15"
+      },
+      {
+        "title": "Tender Is the Night",
+        "author": "F. Scott Fitzgerald",
+        "link": "https://hardcover.apptender-is-the-night",
+        "imageUrl": "https://assets.hardcover.app/external_data/59939171/cb8b530059fa9de814c2c9f0e66c2b6b4633c7d7.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-04-08"
+      },
+      {
+        "title": "La Educación como Práctica de la Libertad",
+        "author": "Paulo Freire",
+        "link": "https://hardcover.appla-educacion-como-practica-de-la-libertad",
+        "imageUrl": "https://assets.hardcover.app/external_data/2259798/1be7568bc09f588a3f91082cced989cf15891eda.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-12-19"
+      },
+      {
+        "title": "Things We Lost in the Fire",
+        "author": "Mariana Enriquez",
+        "link": "https://hardcover.appthings-we-lost-in-the-fire",
+        "imageUrl": "https://assets.hardcover.app/edition/30403194/381f8c2c697bad6e0279476fd9af1db641c869a3.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-07-05"
+      },
+      {
+        "title": "The Girls",
+        "author": "Emma Cline",
+        "link": "https://hardcover.appthe-girls",
+        "imageUrl": "https://assets.hardcover.app/edition/30401756/00cd70ec3da0f6ebcc211d2a3728625f81b396ef.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-12-19"
+      },
+      {
+        "title": "Cuarteles de invierno",
+        "author": "Osvaldo Soriano",
+        "link": "https://hardcover.appcuarteles-de-invierno",
+        "imageUrl": "https://assets.hardcover.app/external_data/60588693/0db102403f2012573339ea7a7b747aeb3f738d3e.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-02-16"
+      },
+      {
+        "title": "Opio en las nubes",
+        "author": "Rafael Chaparro Madiedo",
+        "link": "https://hardcover.appopio-en-las-nubes",
+        "imageUrl": "https://assets.hardcover.app/edition/30651269/8065373-L.jpg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-10-31"
+      },
+      {
+        "title": "In Cold Blood",
+        "author": "Truman Capote",
+        "link": "https://hardcover.appin-cold-blood",
+        "imageUrl": "https://assets.hardcover.app/edition/29139931/b227320dd378685b36172c6f2888b53e2247e170.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-06-11"
+      },
+      {
+        "title": "Terror: Antología",
+        "author": "Graciela Gliemmo",
+        "link": "https://hardcover.appterror-antologia",
+        "imageUrl": "https://assets.hardcover.app/external_data/60414812/d4daf6505461abb6ea18bb4e4930d86428aa1fe4.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-05-17"
+      },
+      {
+        "title": "Cómicos, tiranos y leyendas",
+        "author": "Osvaldo Soriano",
+        "link": "https://hardcover.appcomicos-tiranos-y-leyendas",
+        "imageUrl": "https://assets.hardcover.app/external_data/3102427/802a611bbb974dcdcfd384a1ab87c17e8360d6bc.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-02-18"
+      },
+      {
+        "title": "Segundo Tratado sobre el Gobierno Civil: Un ensayo acerca del verdadero origen y fin del Gobierno Civil",
+        "author": "John Locke",
+        "link": "https://hardcover.appsegundo-tratado-sobre-el-gobierno-civil-un-ensayo-acerca-del-verdadero-origen-y-fin-del-gobierno-civil",
+        "imageUrl": "https://assets.hardcover.app/external_data/377910/369627de81fe60f7e93d6383102ab0035c89bd5b.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-04-08"
+      },
+      {
+        "title": "The Art of War",
+        "author": "Lionel Giles",
+        "link": "https://hardcover.appthe-art-of-war",
+        "imageUrl": "https://assets.hardcover.app/edition/30407002/222cb1d7-a6f8-4f17-9a2a-b6dbb44316e1.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-06-29"
+      },
+      {
+        "title": "Kingdom of Fear: Loathsome Secrets of a Star-Crossed Child in the Final Days of the American Century",
+        "author": "Hunter S. Thompson",
+        "link": "https://hardcover.appkingdom-of-fear",
+        "imageUrl": "https://assets.hardcover.app/edition/30445585/f2260f2ec48639dd88d457c0d54550d324ffb15f.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-04-08"
+      },
+      {
+        "title": "Kryptonita",
+        "author": "Leonardo Oyola",
+        "link": "https://hardcover.appkryptonita",
+        "imageUrl": "https://assets.hardcover.app/edition/31411979/0acb7a89f505b1b5f874813e7e3073210ea79495.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-05-17"
+      },
+      {
+        "title": "Men Without Women",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appmen-without-women-1927",
+        "imageUrl": "https://assets.hardcover.app/external_data/59686321/d2a5b873e289ac24aa1d4292561629f45867b6e0.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-09-12"
+      },
+      {
+        "title": "Dubliners",
+        "author": "James Joyce",
+        "link": "https://hardcover.appdubliners",
+        "imageUrl": "https://assets.hardcover.app/edition/8420628/5b6c2475-4217-4713-9a29-c74731554fe3.jpeg",
+        "shelves": [
+          "2016"
+        ],
+        "readAt": "2016-02-14"
+      }
+    ],
+    "2015": [
+      {
+        "title": "Historia prodigiosa",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://hardcover.apphistoria-prodigiosa",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496868/9f8b22ec864732d4c6376c0c8e5ad2657e0d5f87.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "El Che Guevara: La biografía",
+        "author": "Hugo Gambini",
+        "link": "https://hardcover.appel-che-guevara",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496887/09ed48893fe26dbe1f8905dc935e46a680128610.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "Los anarquistas expropiadores y otros ensayos",
+        "author": "Osvaldo Bayer",
+        "link": "https://hardcover.applos-anarquistas-expropiadores-y-otros-ensayos",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496864/89ab70250494dd1dd2e05f0391c6ba7fe3ae4d10.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "Into the Lion's Den - Devlin Quick Mystery Series, Book 1",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://hardcover.appinto-the-lions-den-devlin-quick-mystery-series-book-1",
+        "imageUrl": "https://assets.hardcover.app/external_data/787608/fea6cfda1d4259a1dc6974b61f86ff410133da7d.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Rincón de Haikus",
+        "author": "Mario Benedetti",
+        "link": "https://hardcover.apprincon-de-haikus",
+        "imageUrl": "https://assets.hardcover.app/edition/31975239/75e8090f8db71b06b5b8a1cab3ac130a2fac41bd.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "El amor brujo",
+        "author": "Roberto Arlt",
+        "link": "https://hardcover.appel-amor-brujo",
+        "imageUrl": "https://assets.hardcover.app/edition/30668896/content.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-12-17"
+      },
+      {
+        "title": "The Invention of Morel",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://hardcover.appthe-invention-of-morel",
+        "imageUrl": "https://assets.hardcover.app/edition/26705023/990a6fe1d1cf083d5702c76e2a7af95edc3993ee.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Plan de evasión",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://hardcover.appplan-de-evasion",
+        "imageUrl": "https://assets.hardcover.app/external_data/211701/8e8d96df1357ee4ef2db5f7faeb630af4e5f137b.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "El sueño de los héroes",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://hardcover.appel-sueno-de-los-heroes",
+        "imageUrl": "https://assets.hardcover.app/edition/30651806/4903206-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Adventures of a Photographer in La Plata",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://hardcover.appthe-adventures-of-a-photographer-in-la-plata",
+        "imageUrl": "https://assets.hardcover.app/external_data/60476843/620f7bef1184f076406cf5a2bbfb09e01c7132e6.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Love in the Time of Cholera",
+        "author": "Gabriel García Márquez",
+        "link": "https://hardcover.applove-in-the-time-of-cholera",
+        "imageUrl": "https://assets.hardcover.app/editions/18450657/7093c0a8-03e6-42af-a46f-b8cfd190914a.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "link": "https://hardcover.appthe-da-vinci-code",
+        "imageUrl": "https://assets.hardcover.app/editions/30400169/2520023766251547.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Homage To Catalonia",
+        "author": "George Orwell",
+        "link": "https://hardcover.apphomage-to-catalonia",
+        "imageUrl": "https://assets.hardcover.app/edition/305497/0a07ed3f-fc6d-4c02-8e64-0a81a97c76c8.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "La memoria de Shakespeare",
+        "author": "Jorge Luis Borges",
+        "link": "https://hardcover.appla-memoria-de-shakespeare",
+        "imageUrl": "",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Soccer in Sun and Shadow",
+        "author": "Mark Fried",
+        "link": "https://hardcover.appsoccer-in-sun-and-shadow",
+        "imageUrl": "https://assets.hardcover.app/edition/30510548/858e5defb718def5066a633293b2f454ef50395f.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Book of Embraces",
+        "author": "Cedric Belfrage",
+        "link": "https://hardcover.appthe-book-of-embraces",
+        "imageUrl": "https://assets.hardcover.app/edition/30698438/ab3639634904761ec472aec2cc24af32cafd28da.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The War of the Worlds",
+        "author": "H. G. Wells",
+        "link": "https://hardcover.appthe-war-of-the-worlds",
+        "imageUrl": "https://assets.hardcover.app/external_data/510523/5234b3cc37b46e79732c37d3954c1d1e38defa60.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Macbeth",
+        "author": "William Shakespeare",
+        "link": "https://hardcover.appmacbeth",
+        "imageUrl": "https://assets.hardcover.app/book/383496/20cde4e6-073f-4ca9-bf7b-de68f7a7f4a2.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "La otra orilla",
+        "author": "Julio Cortázar",
+        "link": "https://hardcover.appla-otra-orilla",
+        "imageUrl": "https://assets.hardcover.app/edition/31410206/159c8f49255de133aca398a641d45b0702e40e13.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-11-15"
+      },
+      {
+        "title": "Borges y la matemática",
+        "author": "Guillermo Martínez",
+        "link": "https://hardcover.appborges-y-la-matematica",
+        "imageUrl": "https://assets.hardcover.app/external_data/1998833/85f24d2a4657f773b5a338d36019125214144550.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Evo Morales: The Extraordinary Rise of the First Indigenous President of Bolivia",
+        "author": "Martín Sivak",
+        "link": "https://hardcover.appevo-morales-the-extraordinary-rise-of-the-first-indigenous-president-of-bolivia",
+        "imageUrl": "https://assets.hardcover.app/edition/31784836/563ecff2e094f6bfe6433a6ee3e3c3073e01ced7.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "The Martian Chronicles",
+        "author": "Ray Bradbury",
+        "link": "https://hardcover.appthe-martian-chronicles",
+        "imageUrl": "https://assets.hardcover.app/book_mappings/7332674/0acf6282b03c56c91ee95d99cdbc7075e595786f.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "link": "https://hardcover.appanimal-farm",
+        "imageUrl": "https://assets.hardcover.app/edition/22658835/7019472-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "link": "https://hardcover.applolita",
+        "imageUrl": "https://assets.hardcover.app/edition/26248826/8488932-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Aguafuertes porteñas",
+        "author": "Roberto Arlt",
+        "link": "https://hardcover.appaguafuertes-portenas",
+        "imageUrl": "https://assets.hardcover.app/external_data/59920262/eb09d97d9adce22595fe7459e9d5d60eae7ffd46.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-11-26"
+      },
+      {
+        "title": "The Silmarillion",
+        "author": "Christopher Tolkien",
+        "link": "https://hardcover.appthe-silmarillion",
+        "imageUrl": "https://assets.hardcover.app/edition/29869537/8fe7967e-b111-4f19-a0c6-6b846304a3a6.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Crime and Punishment",
+        "author": "Robin Feuer Miller",
+        "link": "https://hardcover.appcrime-and-punishment",
+        "imageUrl": "https://assets.hardcover.app/external_data/59475385/9c9502c01ade50819522f5d1bf1918c7ea174627.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Tales of the Jazz Age",
+        "author": "F. Scott Fitzgerald",
+        "link": "https://hardcover.apptales-of-the-jazz-age",
+        "imageUrl": "https://assets.hardcover.app/edition/23373985/c392d4553c370d55f6818901d68494b3dde75eb5.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "link": "https://hardcover.appthe-count-of-monte-cristo",
+        "imageUrl": "https://assets.hardcover.app/edition/22062767/3432f1033b04d23e47edea3a864bb956f3b6346e.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "On the Road",
+        "author": "Jack Kerouac",
+        "link": "https://hardcover.appon-the-road",
+        "imageUrl": "https://assets.hardcover.app/edition/32160428/0fab2171-fef5-4b63-9b67-1a3c77bd7ed1.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-23"
+      },
+      {
+        "title": "Final del juego",
+        "author": "Julio Cortázar",
+        "link": "https://hardcover.appfinal-del-juego",
+        "imageUrl": "https://assets.hardcover.app/edition/30734304/2e77aac4f541fcb2f758b305c00ab63bd58f16fe.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-11-12"
+      },
+      {
+        "title": "Mirrors: Stories of Almost Everyone",
+        "author": "Eduardo Galeano",
+        "link": "https://hardcover.appmirrors",
+        "imageUrl": "https://assets.hardcover.app/edition/2537425/4f64d2a6f8e23f4d417c06ab7de74a64dd5bebd6.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Sobre la televisión",
+        "author": "Pierre Bourdieu",
+        "link": "https://hardcover.appsobre-la-television",
+        "imageUrl": "https://assets.hardcover.app/edition/32617363/a09f50ece1c0ff5f867e2ff8dcbb0d215df23477.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-11"
+      },
+      {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "link": "https://hardcover.appwar-and-peace",
+        "imageUrl": "https://assets.hardcover.app/external_data/272406/dee5cb845b2316580a3af2cd2a44f6b9227f7c5b.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "A Storm of Swords",
+        "author": "George R.R. Martin",
+        "link": "https://hardcover.appa-storm-of-swords",
+        "imageUrl": "https://assets.hardcover.app/book_mappings/7332349/5249dbcbc118ae4ea68c37295c8386f96c341c95.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Children of Hurin",
+        "author": "J.R.R. Tolkien",
+        "link": "https://hardcover.appthe-children-of-hurin",
+        "imageUrl": "https://assets.hardcover.app/editions/30413609/8649859672067284.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-11"
+      },
+      {
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "Mary GrandPré",
+        "link": "https://hardcover.appharry-potter-and-the-goblet-of-fire",
+        "imageUrl": "https://assets.hardcover.app/editions/28458058/1771665257940243-49130.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Gracias por el fuego",
+        "author": "Mario Benedetti",
+        "link": "https://hardcover.appgracias-por-el-fuego",
+        "imageUrl": "https://assets.hardcover.app/external_data/49128945/e4679c5347be6893ddaa057c27352034d3517ba3.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Hobbit, or There and Back Again",
+        "author": "J.R.R. Tolkien",
+        "link": "https://hardcover.appthe-hobbit",
+        "imageUrl": "https://assets.hardcover.app/edition/17456445/d34448a9-bf3f-441d-93f2-1cd32dd3867c.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "In the Penal Colony",
+        "author": "Franz Kafka",
+        "link": "https://hardcover.appin-the-penal-colony",
+        "imageUrl": "https://assets.hardcover.app/edition/32946749/ce5d3ae5752e05dbf02cf1f5d0aa33c8b5cc205c.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Suicide: A Study in Sociology",
+        "author": "George Simpson",
+        "link": "https://hardcover.appsuicide-a-study-in-sociology-1897",
+        "imageUrl": "https://assets.hardcover.app/external_data/59862812/fdf9db615175ef85a8d107b8db8507d3d2d3d352.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "The Aleph and Other Stories",
+        "author": "Jorge Luis Borges",
+        "link": "https://hardcover.appthe-aleph-and-other-stories",
+        "imageUrl": "https://assets.hardcover.app/edition/23747557/1650b22764e62386157fd162cb22c55c54af4241.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Truce",
+        "author": "Mario Benedetti",
+        "link": "https://hardcover.appthe-truce",
+        "imageUrl": "https://assets.hardcover.app/edition/30918489/4e7fb69c-f914-4c91-ac54-f826b04c2924.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "All Fires the Fire",
+        "author": "Julio Cortázar",
+        "link": "https://hardcover.appall-fires-the-fire",
+        "imageUrl": "https://assets.hardcover.app/external_data/4347890/b3a31acccc3dfb494f555215de483c436552c4da.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-11-05"
+      },
+      {
+        "title": "Brave New World / Brave New World Revisited",
+        "author": "Christopher Hitchens",
+        "link": "https://hardcover.appbrave-new-world-brave-new-world-revisited",
+        "imageUrl": "https://assets.hardcover.app/edition/22472892/7fcc858edc546cd2f34805c4dca8d98408e8e2a9.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "link": "https://hardcover.app1984",
+        "imageUrl": "https://assets.hardcover.app/edition/29258002/fb69559e-7c34-40cb-8518-3ef4898b830c.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "El túnel",
+        "author": "Ernesto Sabato",
+        "link": "https://hardcover.appel-tunel-9524d645-86e4-40d0-b032-ee6b84817a88",
+        "imageUrl": "https://assets.hardcover.app/edition/29786707/e6ec7996ce2751fcb213f1fe48f6b0bcc86d70fa.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Hopscotch",
+        "author": "Gregory Rabassa",
+        "link": "https://hardcover.apphopscotch",
+        "imageUrl": "https://assets.hardcover.app/edition/28795611/b6193a0e-e64d-4bc7-81b9-a03015135909.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Cronopios and Famas",
+        "author": "Julio Cortázar",
+        "link": "https://hardcover.appcronopios-and-famas",
+        "imageUrl": "https://assets.hardcover.app/edition/30392700/content.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Cuentos completos",
+        "author": "L. Short",
+        "link": "https://hardcover.appcuentos-completos",
+        "imageUrl": "https://assets.hardcover.app/edition/30436278/4902321-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "link": "https://hardcover.appsiddhartha",
+        "imageUrl": "https://assets.hardcover.app/editions/1645915/2549686296244180-52036.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-25"
+      },
+      {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "link": "https://hardcover.appthe-picture-of-dorian-gray",
+        "imageUrl": "https://assets.hardcover.app/edition/25403534/25aad411adf5c70ceab52ba339ea701564cb93d6.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J. D. Salinger",
+        "link": "https://hardcover.appthe-catcher-in-the-rye",
+        "imageUrl": "https://assets.hardcover.app/editions/20025793/2524829738512264-91YXaY-I9VS._SL1500_.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-11-29"
+      },
+      {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "link": "https://hardcover.appbrave-new-world",
+        "imageUrl": "https://assets.hardcover.app/edition/3299811/3e542fb1d6aed92c0f4e9cd0ac9b2f6892ca97a3.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Thus Spoke Zarathustra",
+        "author": "Friedrich Nietzsche",
+        "link": "https://hardcover.appthus-spoke-zarathustra",
+        "imageUrl": "https://assets.hardcover.app/external_data/33691647/dbb4117faacb8087756a158cb6f5e040e9630609.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling",
+        "link": "https://hardcover.appharry-potter-and-the-prisoner-of-azkaban",
+        "imageUrl": "https://assets.hardcover.app/edition/28780168/0012cc5a-9e3a-48d4-95b6-d91f484de17a.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "link": "https://hardcover.appthe-stranger",
+        "imageUrl": "https://assets.hardcover.app/edition/15655608/419742-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "link": "https://hardcover.appthe-brothers-karamazov",
+        "imageUrl": "https://assets.hardcover.app/edition/31370986/f057a871e6635e92341a5d3c47840dd16a91c543.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "link": "https://hardcover.appthe-metamorphosis",
+        "imageUrl": "https://assets.hardcover.app/edition/6343685/704cd849182f0351406e03434d2968ade757fde0.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "A Moveable Feast",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appa-moveable-feast-1964",
+        "imageUrl": "https://assets.hardcover.app/editions/3825924/1416657040975240.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "link": "https://hardcover.appthe-great-gatsby",
+        "imageUrl": "https://assets.hardcover.app/edition/20216419/2a81c52c-7cf2-4477-9bfc-726d0c69f43e.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "For Whom the Bell Tolls",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appfor-whom-the-bell-tolls",
+        "imageUrl": "https://assets.hardcover.app/editions/13000935/7489798711593207.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "A Universal History of Infamy",
+        "author": "Jorge Luis Borges",
+        "link": "https://hardcover.appa-universal-history-of-infamy",
+        "imageUrl": "https://assets.hardcover.app/edition/5547940/37b5dedd344cda3e842e0649b2270ce20c599495.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Ficciones",
+        "author": "Jorge Luis Borges",
+        "link": "https://hardcover.appficciones-hayaller-ve-hikayeler-1944",
+        "imageUrl": "https://assets.hardcover.app/edition/27607251/07db65332612e3640198ac30d6e6c6e600aa0a5f.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Acerca de Roderer",
+        "author": "Guillermo Martínez",
+        "link": "https://hardcover.appacerca-de-roderer",
+        "imageUrl": "https://assets.hardcover.app/external_data/59920352/2d1bacd6430001703ff28050fbf0474945c9bdd3.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Roald Dahl's Tales of the Unexpected",
+        "author": "Roald Dahl",
+        "link": "https://hardcover.approald-dahls-tales-of-the-unexpected",
+        "imageUrl": "https://assets.hardcover.app/external_data/28441796/270bac2daa9eab11de08d1e7d60284fbb00f4d2d.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Sun Also Rises",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appthe-sun-also-rises",
+        "imageUrl": "https://assets.hardcover.app/editions/26368002/7943617386022284.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Ham on Rye",
+        "author": "Charles Bukowski",
+        "link": "https://hardcover.appham-on-rye",
+        "imageUrl": "https://assets.hardcover.app/external_data/3398823/9cc9351ba9499f1cfe034b722b40c7896c6d1202.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "link": "https://hardcover.appthe-lord-of-the-rings",
+        "imageUrl": "https://assets.hardcover.app/external_data/41547254/141872f0e71efe38f937b72879a5dea52e502db5.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Rules of Sociological Method",
+        "author": "Émile Durkheim",
+        "link": "https://hardcover.apprules-of-sociological-method",
+        "imageUrl": "",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "The Doors of Perception The Classic Exploration of Altered Consciousness and Spirituality",
+        "author": "Aldous Huxley",
+        "link": "https://hardcover.appthe-doors-of-perception-the-classic-exploration-of-altered-consciousness-and-spirituality-1954",
+        "imageUrl": "https://assets.hardcover.app/external_data/2267612/643818b1b1862f15c8d8671ceae0a0fff0c1f231.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "link": "https://hardcover.appone-hundred-years-of-solitude",
+        "imageUrl": "https://assets.hardcover.app/edition/31690057/1072e91e67d3953a7d35bbb0ac44138a8bc600c8.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Un campeón desparejo",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://hardcover.appun-campeon-desparejo",
+        "imageUrl": "https://assets.hardcover.app/edition/31975535/6a7e6ad56895696d156c43c57d58a411c1c411f4.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Communist Manifesto",
+        "author": "Karl Marx",
+        "link": "https://hardcover.appthe-communist-manifesto",
+        "imageUrl": "https://assets.hardcover.app/edition/16294758/21b5cfeb45e2bcaa189ab131168f6477f4515c85.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Republic",
+        "author": "Plato",
+        "link": "https://hardcover.apprepublic",
+        "imageUrl": "https://assets.hardcover.app/external_data/4215960/730d2f9f23ec44e3d632cf65afad54b132a85dba.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Death with Interruptions",
+        "author": "Margaret Jull Costa",
+        "link": "https://hardcover.appdeath-with-interruptions",
+        "imageUrl": "https://assets.hardcover.app/edition/8895958/c0a8f11a-4aea-4a56-a75a-8e62a079ac53.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "¿Quién mató a Rosendo?",
+        "author": "Rodolfo Walsh",
+        "link": "https://hardcover.appquien-mato-a-rosendo-1969",
+        "imageUrl": "https://assets.hardcover.app/edition/32025760/40026dd4a2b4f681a938453bcc7e2853f2ccafb8.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "The Oxford Murders",
+        "author": "Guillermo Martínez",
+        "link": "https://hardcover.appthe-oxford-murders",
+        "imageUrl": "https://assets.hardcover.app/external_data/862618/59363d51d16e87505379444f7d6eb2e3c44231f7.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Nausea",
+        "author": "James  Wood",
+        "link": "https://hardcover.appnausea",
+        "imageUrl": "https://assets.hardcover.app/external_data/59586835/935955286ddd2e891f63e1844181c4f98316c426.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "link": "https://hardcover.appharry-potter-and-the-philosophers-stone",
+        "imageUrl": "https://assets.hardcover.app/external_data/4257970/a3a1bbb3dae498a7a8316be0cc9bc5e91f6c34c9.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Walter Trier",
+        "link": "https://hardcover.appthe-adventures-of-huckleberry-finn",
+        "imageUrl": "https://assets.hardcover.app/book_mappings/7332398/99b9f279609386e778f1fc36051d8a002f04ca81.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Prince",
+        "author": "Niccolò Machiavelli",
+        "link": "https://hardcover.appthe-prince",
+        "imageUrl": "https://assets.hardcover.app/external_data/4233354/a47e09ed334187fbc812e0e8f38c94cd46ece94a.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Artificial Paradises",
+        "author": "Stacy Diamond",
+        "link": "https://hardcover.appartificial-paradises",
+        "imageUrl": "",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "El jorobadito y otros cuentos",
+        "author": "Roberto Arlt",
+        "link": "https://hardcover.appel-jorobadito-y-otros-cuentos",
+        "imageUrl": "https://assets.hardcover.app/external_data/88889/7de4dc9a45035cf377db87550110899a3e74ec02.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Upside Down: A Primer for the Looking-Glass World",
+        "author": "Mark Fried",
+        "link": "https://hardcover.appupside-down-a-primer-for-the-looking-glass-world",
+        "imageUrl": "https://assets.hardcover.app/edition/30025596/de0b5fee03c289b42614ff1280c6dbb3ee0ba8d9.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "All the Names",
+        "author": "José Saramago",
+        "link": "https://hardcover.appall-the-names",
+        "imageUrl": "https://assets.hardcover.app/edition/21346659/6619681-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-25"
+      },
+      {
+        "title": "Blindness",
+        "author": "José Saramago",
+        "link": "https://hardcover.appblindness",
+        "imageUrl": "https://assets.hardcover.app/edition/30402238/09d8201dca8f836ab7dc29d555a22ea063cf708c.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Time Machine",
+        "author": "H. G. Wells",
+        "link": "https://hardcover.appthe-time-machine",
+        "imageUrl": "https://assets.hardcover.app/external_data/1369765/e33e2b4de400a166a9c5febb34a8b6396a8acd1d.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The General in His Labyrinth",
+        "author": "Gabriel García Márquez",
+        "link": "https://hardcover.appthe-general-in-his-labyrinth",
+        "imageUrl": "https://assets.hardcover.app/external_data/4018485/56f9c79f698d5c43475be7c74841373d7bf76c0b.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Letters of J.R.R. Tolkien",
+        "author": "J.R.R. Tolkien",
+        "link": "https://hardcover.appthe-letters-of-jrr-tolkien",
+        "imageUrl": "https://assets.hardcover.app/external_data/61336553/c320b4e413cbf91fd2bd95c3f138dae598e0162e.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Chronicle of a Death Foretold",
+        "author": "Gabriel García Márquez",
+        "link": "https://hardcover.appchronicle-of-a-death-foretold",
+        "imageUrl": "https://assets.hardcover.app/edition/29835454/6fb7332879bb3a9c00e71eb2b6f1ec45eb3cb571.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "link": "https://hardcover.appa-clockwork-orange",
+        "imageUrl": "https://assets.hardcover.app/edition/24599945/a18266d2-3500-4641-99b3-035c7dc55d2a.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "A Country Doctor",
+        "author": "Franz Kafka",
+        "link": "https://hardcover.appa-country-doctor",
+        "imageUrl": "https://assets.hardcover.app/edition/23063949/8f39fd51757033576917f48ea7251b4f5dce3b66.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Pleasures of the Damned",
+        "author": "John   Martin",
+        "link": "https://hardcover.appthe-pleasures-of-the-damned",
+        "imageUrl": "https://assets.hardcover.app/book_mappings/7351290/db37d0ad6f484adfafdd974e9e3b72c08f026b87.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "When Google Met WikiLeaks",
+        "author": "Julian Assange",
+        "link": "https://hardcover.appwhen-google-met-wikileaks",
+        "imageUrl": "https://assets.hardcover.app/external_data/59675332/d64b78ed45fe488e5fd842e33823dd89a069d6a6.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appthe-old-man-and-the-sea",
+        "imageUrl": "https://assets.hardcover.app/edition/11498872/ccb7ec46ff2ade50cedec400681e60e0c89e4c4a.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Los siete locos",
+        "author": "Roberto Arlt",
+        "link": "https://hardcover.applos-siete-locos",
+        "imageUrl": "https://assets.hardcover.app/edition/30478938/1051722-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-02-05"
+      },
+      {
+        "title": "El juguete rabioso",
+        "author": "Roberto Arlt",
+        "link": "https://hardcover.appel-juguete-rabioso",
+        "imageUrl": "https://assets.hardcover.app/edition/30651965/e7cd1e0a9ae7be12206355555e00d1babd16475d.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Los lanzallamas",
+        "author": "Roberto Arlt",
+        "link": "https://hardcover.applos-lanzallamas",
+        "imageUrl": "https://assets.hardcover.app/external_data/60289067/cbf83b26f5f9341cfacdcf1e20f79b8c8200ab95.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Historias desaforadas",
+        "author": "Adolfo Bioy Casares",
+        "link": "https://hardcover.apphistorias-desaforadas",
+        "imageUrl": "https://assets.hardcover.app/external_data/60414694/90577a3f02c2ea38512097383ba2aa79aa0d63dd.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Asleep in the Sun",
+        "author": "James Sallis",
+        "link": "https://hardcover.appasleep-in-the-sun",
+        "imageUrl": "https://assets.hardcover.app/edition/13808111/859126-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Bestiario",
+        "author": "Julio Cortázar",
+        "link": "https://hardcover.appbestiario",
+        "imageUrl": "https://assets.hardcover.app/edition/31441051/be3ca5e075f8d11887b9e969b3e51b2e93b01c30.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Severino Di Giovanni, el idealista de la violencia",
+        "author": "BAYER OSVALDO",
+        "link": "https://hardcover.appseverino-di-giovanni-el-idealista-de-la-violencia",
+        "imageUrl": "https://assets.hardcover.app/edition/32218271/b405adb4f3811237ee441bf9a08357343c01ca52.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "La Patagonia rebelde",
+        "author": "Osvaldo Bayer",
+        "link": "https://hardcover.appla-patagonia-rebelde",
+        "imageUrl": "",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "The Complete Sherlock Holmes",
+        "author": "Arthur Conan Doyle",
+        "link": "https://hardcover.appthe-complete-sherlock-holmes",
+        "imageUrl": "https://assets.hardcover.app/external_data/4241083/e136803c5ce448618bc07210b1f17cae39a275d0.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Las venas abiertas de América Latina",
+        "author": "Eduardo Galeano",
+        "link": "https://hardcover.applas-venas-abiertas-de-america-latina-five-centuries-of-the-pillage-of-a-continent-1971",
+        "imageUrl": "https://assets.hardcover.app/edition/30625900/1bc1da15df735ae9cfebc445a2f3c40e9cc66200.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Anti-Christ",
+        "author": "H.L. Mencken",
+        "link": "https://hardcover.appthe-anti-christ",
+        "imageUrl": "https://assets.hardcover.app/edition/29783660/c48adc03b3d9b937a8a3c88c60c82038f5d003bd.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Cypherpunks: Freedom and the Future of the Internet",
+        "author": "Jacob Appelbaum",
+        "link": "https://hardcover.appcypherpunks",
+        "imageUrl": "https://assets.hardcover.app/edition/31123641/00960196c03b11009847d705bd7bc0d5f181a9bb.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "No Place to Hide",
+        "author": "Glenn Greenwald",
+        "link": "https://hardcover.appno-place-to-hide",
+        "imageUrl": "https://assets.hardcover.app/edition/30403844/b78c2d81ef4799877af6886cbf37ccefc96e35d9.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-02-05"
+      },
+      {
+        "title": "Utopia",
+        "author": "Thomas More",
+        "link": "https://hardcover.apputopia-utopia-1516",
+        "imageUrl": "https://assets.hardcover.app/edition/3773236/5a575c3c784d9ed4c488c28ee9f1cd3899e176d4.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "The State and Revolution",
+        "author": "Vladimir Lenin",
+        "link": "https://hardcover.appthe-state-and-revolution",
+        "imageUrl": "https://assets.hardcover.app/external_data/2498101/7a9bd1308abf63577116ed9d7130cdc59531dd1c.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+        "author": "Simon Singh",
+        "link": "https://hardcover.appthe-code-book",
+        "imageUrl": "https://assets.hardcover.app/external_data/4347498/412ce9abacb06c87d4a1b82da87e31488eaaa31f.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Imperialism: The Highest Stage of Capitalism",
+        "author": "Vladimir Lenin",
+        "link": "https://hardcover.appimperialism-the-highest-stage-of-capitalism",
+        "imageUrl": "https://assets.hardcover.app/external_data/408788/97cbdf63b1d4de6d2a3767d1a5e2488a0ead9eaf.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "The Trial",
+        "author": "Franz Kafka",
+        "link": "https://hardcover.appthe-trial",
+        "imageUrl": "https://assets.hardcover.app/edition/30738162/8140099c-e36f-4279-a914-d5156141079b.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "link": "https://hardcover.appfahrenheit-451",
+        "imageUrl": "https://assets.hardcover.app/edition/6336191/3d353406f14fd36043a8bdfb8c3288f90ee4f96c.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Steppenwolf",
+        "author": "Hermann Hesse",
+        "link": "https://hardcover.appsteppenwolf",
+        "imageUrl": "https://assets.hardcover.app/editions/3512145/d062403f-cedf-45b3-a03d-0e666b9291ce.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "La resistencia",
+        "author": "Ernesto Sabato",
+        "link": "https://hardcover.appla-resistencia-2000",
+        "imageUrl": "https://assets.hardcover.app/edition/30651742/f3532665-0d4f-4f2f-b58b-7ac22efcd186.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Mystery of the Blue Train",
+        "author": "Agatha Christie",
+        "link": "https://hardcover.appthe-mystery-of-the-blue-train",
+        "imageUrl": "https://assets.hardcover.app/edition/30546062/b0fba630ae1bff389098c7fc10f70d6949db7fbd.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The ABC Murders",
+        "author": "Agatha Christie",
+        "link": "https://hardcover.appthe-abc-murders",
+        "imageUrl": "https://assets.hardcover.app/edition/16910714/fdd4f2ba4997938e3b91fdda621614be9f33033b.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Murder of Roger Ackroyd",
+        "author": "Agatha Christie",
+        "link": "https://hardcover.appthe-murder-of-roger-ackroyd",
+        "imageUrl": "https://assets.hardcover.app/edition/3731636/099e2510c81b432dedd4040700769c9d4048b84f.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Murder on the Orient Express",
+        "author": "Agatha Christie",
+        "link": "https://hardcover.appmurder-on-the-orient-express",
+        "imageUrl": "https://assets.hardcover.app/editions/30399401/9393001616356172-853510.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "News of a Kidnapping",
+        "author": "Edith Grossman",
+        "link": "https://hardcover.appnews-of-a-kidnapping",
+        "imageUrl": "https://assets.hardcover.app/edition/30425495/11685577-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Understanding Exposure: How to Shoot Great Photographs with a Film or Digital Camera",
+        "author": "Bryan Peterson",
+        "link": "https://hardcover.appunderstanding-exposure",
+        "imageUrl": "https://assets.hardcover.app/external_data/37215766/3574ad0bff155deffc7da704dcdeaa8228ac5792.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Hedge Knight",
+        "author": "Ben Avery",
+        "link": "https://hardcover.appthe-hedge-knight",
+        "imageUrl": "https://assets.hardcover.app/edition/22826301/aab67ff6d5e591ae6538a617edaa1981517a3491.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Call of Cthulhu",
+        "author": "H. P. Lovecraft",
+        "link": "https://hardcover.appthe-call-of-cthulhu",
+        "imageUrl": "https://assets.hardcover.app/external_data/4263732/8a549972b0bfb1c40618aaecf687dea9e8936dd0.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-11-07"
+      },
+      {
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "link": "https://hardcover.appalices-adventures-in-wonderland",
+        "imageUrl": "https://assets.hardcover.app/edition/32806710/fe0c3d9c2e0abadb4c34221a5eec4f342a184e0d.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-19"
+      },
+      {
+        "title": "I Am Legend",
+        "author": "Richard Matheson",
+        "link": "https://hardcover.appi-am-legend",
+        "imageUrl": "https://assets.hardcover.app/edition/30399490/cbdd9c050c0af555c27cb18f9b86428081bbb7c5.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Hamlet, Prince of Denmark",
+        "author": "William Shakespeare",
+        "link": "https://hardcover.apphamlet-prince-of-denmark-1601",
+        "imageUrl": "https://assets.hardcover.app/book/255674/897779cf-d38c-4ff7-8bf1-7fc217c3c163.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Plague",
+        "author": "Albert Camus",
+        "link": "https://hardcover.appthe-plague",
+        "imageUrl": "https://assets.hardcover.app/edition/2707798/7be060fefe972fcc6c85a3a65649d64d2517ad03.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Un tal Lucas",
+        "author": "Julio Cortázar",
+        "link": "https://hardcover.appun-tal-lucas",
+        "imageUrl": "https://assets.hardcover.app/external_data/26917895/bd916e42336e1f688818e6be7cd5d9b520fc8251.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Garden of Eden",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appthe-garden-of-eden",
+        "imageUrl": "https://assets.hardcover.app/edition/28714857/fff8b36ae8aa770294379cdaffd85504c1a1dec8.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "The Book of Sand and Shakespeare's Memory",
+        "author": "Jorge Luis Borges",
+        "link": "https://hardcover.appthe-book-of-sand-and-shakespeares-memory",
+        "imageUrl": "https://assets.hardcover.app/edition/29198297/f20b964ecb536355d98dba6ec98d3ea2b5541921.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Cuentos de Eva Luna",
+        "author": "Isabel Allende",
+        "link": "https://hardcover.appcuentos-de-eva-luna-1989",
+        "imageUrl": "https://assets.hardcover.app/edition/7201931/4944065-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "link": "https://hardcover.appa-game-of-thrones",
+        "imageUrl": "https://assets.hardcover.app/edition/12841472/a63e7ea1-9064-4eb8-afb4-5372db40aed2.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "No Exit",
+        "author": "Jean-Paul Sartre",
+        "link": "https://hardcover.appno-exit",
+        "imageUrl": "https://assets.hardcover.app/edition/30402726/b582e00184dea30c5ce5eedaaca955fbe7a9cebc.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-11-12"
+      },
+      {
+        "title": "A Feast for Crows",
+        "author": "George R.R. Martin",
+        "link": "https://hardcover.appa-feast-for-crows",
+        "imageUrl": "https://assets.hardcover.app/edition/2789048/8570883-L.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "The Sworn Sword",
+        "author": "George R.R. Martin",
+        "link": "https://hardcover.appthe-sworn-sword",
+        "imageUrl": "https://assets.hardcover.app/edition/30402160/b56fa1548a7ff10b9e8448a164f3c447803d3a04.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Death on the Nile",
+        "author": "Agatha Christie",
+        "link": "https://hardcover.appdeath-on-the-nile",
+        "imageUrl": "https://assets.hardcover.app/books/91205/6382237999554634.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Variaciones en rojo",
+        "author": "Rodolfo Walsh",
+        "link": "https://hardcover.appvariaciones-en-rojo-1953",
+        "imageUrl": "https://assets.hardcover.app/edition/32025756/509b5ba337263d2e56813b192518a0b3f4fdbb3b.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "The Death of Artemio Cruz",
+        "author": "Carlos Fuentes",
+        "link": "https://hardcover.appthe-death-of-artemio-cruz",
+        "imageUrl": "https://assets.hardcover.app/edition/30693019/cb5685fcf49f76ced83bb55502344ec2d7d79521.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-02-05"
+      },
+      {
+        "title": "The Mystery Knight",
+        "author": "George R.R. Martin",
+        "link": "https://hardcover.appthe-mystery-knight",
+        "imageUrl": "https://assets.hardcover.app/edition/30402156/37efc246285edf9157d33f7a2f6a4fc4953892a5.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "Operación Masacre",
+        "author": "Rodolfo Walsh",
+        "link": "https://hardcover.appoperacion-masacre",
+        "imageUrl": "https://assets.hardcover.app/edition/30650919/360c380f0f4f35f06b281429da2079859d0e22c6.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-29"
+      },
+      {
+        "title": "Across the River and into the Trees",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appacross-the-river-and-into-the-trees",
+        "imageUrl": "https://assets.hardcover.app/edition/30398835/ae8589bcd2ae8eb26e9cf397c39a611bb44ddd31.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-12"
+      },
+      {
+        "title": "A Farewell to Arms",
+        "author": "Ernest Hemingway",
+        "link": "https://hardcover.appa-farewell-to-arms",
+        "imageUrl": "https://assets.hardcover.app/external_data/3309645/ba66bced530b505b7730d34cbcb25fe85f2568ce.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
+        "author": "Kevin D. Mitnick",
+        "link": "https://hardcover.appghost-in-the-wires",
+        "imageUrl": "https://assets.hardcover.app/edition/30401501/049006a12f4da3e03b55b6b94765191eb614f7f1.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-10-10"
+      },
+      {
+        "title": "A Clash of Kings",
+        "author": "George R.R. Martin",
+        "link": "https://hardcover.appa-clash-of-kings",
+        "imageUrl": "https://assets.hardcover.app/edition/31511879/b07a46b8779277ff8c05d74b19c25233fce95023.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "Harry Potter and the Half-Blood Prince",
+        "author": "J.K. Rowling",
+        "link": "https://hardcover.appharry-potter-and-the-half-blood-prince",
+        "imageUrl": "https://assets.hardcover.app/editions/19724535/8038369521613846-58613345.jpg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      },
+      {
+        "title": "A Dance with Dragons",
+        "author": "George R.R. Martin",
+        "link": "https://hardcover.appa-dance-with-dragons",
+        "imageUrl": "https://assets.hardcover.app/external_data/60312701/d2c85ef45f183d295c497ecda8018b40d3974ffb.jpeg",
+        "shelves": [
+          "2015"
+        ],
+        "readAt": "2015-01-25"
+      }
+    ],
+    "2018": [
+      {
+        "title": "A Partir de Ahora El Combate Sera Libre",
+        "author": "Rafael Barrett",
+        "link": "https://hardcover.appa-partir-de-ahora-el-combate-sera-libre",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496866/fdb3d9c2f0ae4a173bc7b4ea639c0d8f67a26c06.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-02-24"
+      },
+      {
+        "title": "History of Copyright",
+        "author": "Rick Falkvinge",
+        "link": "https://hardcover.apphistory-of-copyright",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496859/6a4056bc4fdaf42b6558ff65a497b540eb56c35c.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-06-11"
+      },
+      {
+        "title": "Ideario",
+        "author": "Errico Malatesta",
+        "link": "https://hardcover.appideario",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496865/8e799c0a0dae8f3d585cae31f4e58e5dcd689ca8.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-12-27"
+      },
+      {
+        "title": "Guerilla Open Access Manifesto",
+        "author": "Aaron Swartz",
+        "link": "https://hardcover.appguerilla-open-access-manifesto",
+        "imageUrl": "https://assets.hardcover.app/external_data/3345787/24a0f21d825bcda8bbc392b0bf6c8abdc0c3afdc.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-06-11"
+      },
+      {
+        "title": "The Restaurant at the End of the Universe",
+        "author": "Douglas Adams",
+        "link": "https://hardcover.appthe-restaurant-at-the-end-of-the-universe",
+        "imageUrl": "https://assets.hardcover.app/edition/30391528/85b67e92-1dc0-40bb-be5d-4988afdfb511.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-10-29"
+      },
+      {
+        "title": "Life, the Universe and Everything",
+        "author": "Douglas Adams",
+        "link": "https://hardcover.applife-the-universe-and-everything",
+        "imageUrl": "https://assets.hardcover.app/edition/30601721/312f39d2-5c8c-45a3-96de-89bb0c5f6471.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-11-05"
+      },
+      {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "link": "https://hardcover.appanna-karenina",
+        "imageUrl": "https://assets.hardcover.app/edition/3813596/28ed3bc40c30477f1497369fdd8cccadca401293.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-03-15"
+      },
+      {
+        "title": "So Long, and Thanks for All the Fish",
+        "author": "Douglas Adams",
+        "link": "https://hardcover.appso-long-and-thanks-for-all-the-fish",
+        "imageUrl": "https://assets.hardcover.app/edition/30718523/4dde8ed400d88f55a9f6b631c909d8dc0ebcfb8e.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-11-19"
+      },
+      {
+        "title": "Diarios",
+        "author": "Ana María Becciu",
+        "link": "https://hardcover.appdiarios-2004",
+        "imageUrl": "https://assets.hardcover.app/external_data/60291240/01497d5c636718a461ca55c71d692c84865e5e68.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-02-07"
+      },
+      {
+        "title": "Mostly Harmless",
+        "author": "Douglas Adams",
+        "link": "https://hardcover.appmostly-harmless",
+        "imageUrl": "https://assets.hardcover.app/edition/31618989/b5ba4f72-8f87-411e-8839-1340296c6395.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-11-25"
+      },
+      {
+        "title": "The Complete Robot",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appthe-complete-robot",
+        "imageUrl": "https://assets.hardcover.app/external_data/35431684/213c234597d2736eaea9037ddfc1bcd8373d9872.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-08-19"
+      },
+      {
+        "title": "The Caves of Steel",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appthe-caves-of-steel",
+        "imageUrl": "https://assets.hardcover.app/edition/30422727/b4e657268d8383a1a60f096eeaab2222e11d9f10.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-08-28"
+      },
+      {
+        "title": "The Robots of Dawn",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appthe-robots-of-dawn",
+        "imageUrl": "https://assets.hardcover.app/edition/27747434/a66879b034e13c675624c8237842bf316cab3c59.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-09-07"
+      },
+      {
+        "title": "Poesía completa",
+        "author": "Alejandra Pizarnik",
+        "link": "https://hardcover.apppoesia-completa-107cb11e-f0ee-4009-9004-953cd3e26d42",
+        "imageUrl": "https://assets.hardcover.app/edition/30465948/401060._SX98_.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-02-07"
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "link": "https://hardcover.appthe-hitchhikers-guide-to-the-galaxy",
+        "imageUrl": "https://assets.hardcover.app/edition/21490281/d9b48333ac7a69ebe0aa5573fe0ff032e6f97508.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-10-29"
+      },
+      {
+        "title": "The Naked Sun",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appthe-naked-sun",
+        "imageUrl": "https://assets.hardcover.app/external_data/4320919/21613abe1af96f2d61c82e7442c8773b3381c953.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-09-03"
+      },
+      {
+        "title": "Authority",
+        "author": "Jeff VanderMeer",
+        "link": "https://hardcover.appauthority",
+        "imageUrl": "https://assets.hardcover.app/edition/30769443/00a70122-9bb2-4674-85e9-1946f5e7ae35.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-12-30"
+      },
+      {
+        "title": "Annihilation",
+        "author": "Jeff VanderMeer",
+        "link": "https://hardcover.appannihilation",
+        "imageUrl": "https://assets.hardcover.app/edition/30917897/4af3d5db-12c3-4209-a3bc-be7d08467412.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-12-27"
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "link": "https://hardcover.apppride-and-prejudice",
+        "imageUrl": "https://assets.hardcover.app/edition/30519375/e154c876-72fd-4f13-ba24-3551f0104306.jpg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-06-13"
+      },
+      {
+        "title": "Steal Like an Artist",
+        "author": "Austin Kleon",
+        "link": "https://hardcover.appsteal-like-an-artist",
+        "imageUrl": "https://assets.hardcover.app/edition/30406906/f9795a41fc6e688ff97f5bffab3c82472ccead76.jpeg",
+        "shelves": [
+          "2018"
+        ],
+        "readAt": "2018-06-04"
+      }
+    ],
+    "2023": [
+      {
+        "title": "Nosotros contra ellos: Cómo trabajan las redes para confirmar nuestras creencias y rechazar las de los otros",
+        "author": "Natalia Aruguete",
+        "link": "https://hardcover.appnosotros-contra-ellos",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496876/620b6496b37d0ed4f5860c1f47a56bad15477d44.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-09-04"
+      },
+      {
+        "title": "Contra el Homo Resignatus: Siete ensayos para reinventar la rebeldía política en un mundo invadido por el desencanto",
+        "author": "Lucas Rubinich",
+        "link": "https://hardcover.appcontra-el-homo-resignatus",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496874/880b2f1ea012027e5dd964ca9c307b7a67489d14.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-02-21"
+      },
+      {
+        "title": "Demian",
+        "author": "Hermann Hesse",
+        "link": "https://hardcover.appdemian",
+        "imageUrl": "https://assets.hardcover.app/edition/30468765/5a427dd3e180d23db64550294314d02946f1b029.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-04-24"
+      },
+      {
+        "title": "La infancia del mundo",
+        "author": "Michel Nieva",
+        "link": "https://hardcover.appla-infancia-del-mundo",
+        "imageUrl": "https://assets.hardcover.app/external_data/60351920/cd5e9a7707f436c5b71c92e8116c03eb0968cb34.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-09-12"
+      },
+      {
+        "title": "The Fall of Númenor: and Other Tales from the Second Age of Middle-earth",
+        "author": "Brian Sibley",
+        "link": "https://hardcover.appthe-fall-of-numenor",
+        "imageUrl": "https://assets.hardcover.app/edition/30721074/8ca10a22d89436227a6ecce5556693136b42c3f3.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-01-09"
+      },
+      {
+        "title": "Amor y anarquismo",
+        "author": "Laura Fernández Cordero",
+        "link": "https://hardcover.appamor-y-anarquismo",
+        "imageUrl": "https://assets.hardcover.app/external_data/3050452/665e6666363ed8c4c8c5d80f13efe9841f1fe7e9.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-01-16"
+      },
+      {
+        "title": "Create Dangerously",
+        "author": "Justin O'Brien",
+        "link": "https://hardcover.appcreate-dangerously-1957",
+        "imageUrl": "https://assets.hardcover.app/edition/30556949/24218f2ce062c7d6824444af22e0e3795353830e.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-04-24"
+      },
+      {
+        "title": "The Wandering Earth",
+        "author": "Cixin Liu",
+        "link": "https://hardcover.appthe-wandering-earth",
+        "imageUrl": "https://assets.hardcover.app/edition/30402753/7456824f-c3ba-4423-9d99-687b18ba0e43.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-02-12"
+      },
+      {
+        "title": "The Peripheral",
+        "author": "William Gibson",
+        "link": "https://hardcover.appthe-peripheral",
+        "imageUrl": "https://assets.hardcover.app/external_data/647785/01f633312614305fb66dfec00005136c90fb7643.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-10-06"
+      },
+      {
+        "title": "The Days of the Deer",
+        "author": "Liliana Bodoc",
+        "link": "https://hardcover.appthe-days-of-the-deer",
+        "imageUrl": "https://assets.hardcover.app/edition/30423882/d8f01fc0644e5a70ab905cce920de4fb5cc7462b.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-08-28"
+      },
+      {
+        "title": "Los días del Fuego",
+        "author": "Liliana Bodoc",
+        "link": "https://hardcover.applos-dias-del-fuego",
+        "imageUrl": "https://assets.hardcover.app/edition/30610196/4932958-L.jpg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-10-29"
+      },
+      {
+        "title": "Los días de la sombra",
+        "author": "Liliana Bodoc",
+        "link": "https://hardcover.applos-dias-de-la-sombra",
+        "imageUrl": "https://assets.hardcover.app/edition/32026173/2bb4edff139e720ac2f064caa11fc96cf7131324.jpeg",
+        "shelves": [
+          "2023"
+        ],
+        "readAt": "2023-09-23"
+      }
+    ],
+    "2020": [
+      {
+        "title": "Fake news, trolls y otros encantos: cómo funcionan (para bien y para mal) las redes sociales",
+        "author": "Ernesto Calvo",
+        "link": "https://hardcover.appfake-news-trolls-y-otros-encantos",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496872/05111cd53d61ab8d5181d1b11ed47b90cb660b8e.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-04-01"
+      },
+      {
+        "title": "Les Misérables",
+        "author": "Christine Donougher",
+        "link": "https://hardcover.apples-miserables",
+        "imageUrl": "https://assets.hardcover.app/edition/1019043/811428da-ae12-4ff3-aa51-104d4e986c36.png",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-03-21"
+      },
+      {
+        "title": "Foundation's Edge",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appfoundations-edge",
+        "imageUrl": "https://assets.hardcover.app/edition/30550458/c52ff1eb-8fc9-47fd-8547-4a973834ed91.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-02-04"
+      },
+      {
+        "title": "Cómo desaparecer completamente",
+        "author": "Mariana Enriquez",
+        "link": "https://hardcover.appcomo-desaparecer-completamente",
+        "imageUrl": "https://assets.hardcover.app/edition/32352847/a79106b1e6937aebd448f0a3258cf44e87df4753.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-08-24"
+      },
+      {
+        "title": "The Island of Doctor Moreau",
+        "author": "H. G. Wells",
+        "link": "https://hardcover.appthe-island-of-doctor-moreau",
+        "imageUrl": "https://assets.hardcover.app/edition/30471995/c9948e477fcddf60a184c88f603ac45b4223a6ec.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-08-24"
+      },
+      {
+        "title": "Cómo provocar un incendio y por qué",
+        "author": "Jesse Ball",
+        "link": "https://hardcover.appcomo-provocar-un-incendio-y-por-que",
+        "imageUrl": "https://assets.hardcover.app/edition/30658564/content.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-11-02"
+      },
+      {
+        "title": "The Monster Enters: COVID-19, Avian Flu and the Plagues of Capitalism",
+        "author": "Mike  Davis",
+        "link": "https://hardcover.appthe-monster-enters",
+        "imageUrl": "https://assets.hardcover.app/external_data/2098095/4509b9021471ab8a9ab8fffa62f5136335b33c96.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-10-28"
+      },
+      {
+        "title": "¿Por qué el capitalismo puede soñar y nosotros no?: Breve manual de las ideas de izquierda para pensar el futuro",
+        "author": "Alejandro Galliano",
+        "link": "https://hardcover.apppor-que-el-capitalismo-puede-sonar-y-nosotros-no",
+        "imageUrl": "https://assets.hardcover.app/external_data/377191/e3222e5322d846fc28f12de49b211550f71d0bc1.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-05-28"
+      },
+      {
+        "title": "Big data: breve manual para conocer la ciencia de datos que ya invadió nuestras vidas",
+        "author": "Walter Sosa Escudero",
+        "link": "https://hardcover.appbig-data-breve-manual-para-conocer-la-ciencia-de-datos-que-ya-invadio-nuestras-vidas",
+        "imageUrl": "",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-04-01"
+      },
+      {
+        "title": "Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones",
+        "author": "Críptica",
+        "link": "https://hardcover.appresistencia-digital-manual-de-seguridad-operacional-e-instrumental-para-smartphones",
+        "imageUrl": "https://assets.hardcover.app/external_data/60480450/9febd53bfaad1b37335a83cb7271e60e1f288e08.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-10-02"
+      },
+      {
+        "title": "Los crímenes de Alicia",
+        "author": "Guillermo Martínez",
+        "link": "https://hardcover.applos-crimenes-de-alicia",
+        "imageUrl": "https://assets.hardcover.app/external_data/862604/fa16ab4059d788cdc59e609fb4778a7a11a445a6.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-07-08"
+      },
+      {
+        "title": "The Death of Ivan Ilyich",
+        "author": "Leo Tolstoy",
+        "link": "https://hardcover.appthe-death-of-ivan-ilyich-new-translation-1886",
+        "imageUrl": "https://assets.hardcover.app/external_data/4264054/6941cf4c83f8ad85aaa9f355efadebd68d0c6e2e.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-12-27"
+      },
+      {
+        "title": "Shadow Libraries",
+        "author": "Joe Karaganis",
+        "link": "https://hardcover.appshadow-libraries",
+        "imageUrl": "",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-08-22"
+      },
+      {
+        "title": "Foundation and Earth",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appfoundation-and-earth",
+        "imageUrl": "https://assets.hardcover.app/edition/30550457/29482031-b579-48a1-89fa-8fc3205087c5.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-02-07"
+      },
+      {
+        "title": "Foundation",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appfoundation",
+        "imageUrl": "https://assets.hardcover.app/edition/16870525/d73ddcc9-ecca-4b1c-8db5-133076d2725b.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-01-17"
+      },
+      {
+        "title": "Foundation and Empire",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appfoundation-and-empire",
+        "imageUrl": "https://assets.hardcover.app/edition/30404893/302049d9-ffef-4648-b03b-def5df0ab5d1.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-01-22"
+      },
+      {
+        "title": "Second Foundation",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appsecond-foundation",
+        "imageUrl": "https://assets.hardcover.app/editions/30404895/4352386332856053.jpg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-01-27"
+      },
+      {
+        "title": "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy",
+        "author": "Cathy O'Neil",
+        "link": "https://hardcover.appweapons-of-math-destruction",
+        "imageUrl": "https://assets.hardcover.app/external_data/32844552/8e8a8b2727101d8a42f4a8fef93ab1f05494dacc.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-04-14"
+      },
+      {
+        "title": "The World Without Us",
+        "author": "Alan Weisman",
+        "link": "https://hardcover.appthe-world-without-us",
+        "imageUrl": "https://assets.hardcover.app/external_data/2450102/6d205f2119f311c90016e4bd4d3eb0b740d52fdc.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-04-05"
+      },
+      {
+        "title": "Los cosacos",
+        "author": "Leo Tolstoy",
+        "link": "https://hardcover.applos-cosacos",
+        "imageUrl": "https://assets.hardcover.app/edition/32262074/a25fd0757b0a58373fb6c73649bfbd7f32f0031b.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-10-13"
+      },
+      {
+        "title": "Los suicidas del fin del mundo: Crónica de un pueblo patagónico",
+        "author": "Leila Guerriero",
+        "link": "https://hardcover.applos-suicidas-del-fin-del-mundo",
+        "imageUrl": "https://assets.hardcover.app/external_data/59920251/8bf122ad6802af50c2a05c4ce32d5175f8ff5f80.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-11-19"
+      },
+      {
+        "title": "Antología del cuento extraño 1",
+        "author": "Rodolfo Walsh",
+        "link": "https://hardcover.appantologia-del-cuento-extrano-1-1976",
+        "imageUrl": "https://assets.hardcover.app/edition/33093462/6ed27b4498a91844945b6ca97d1eea605cec0c33.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-10-07"
+      },
+      {
+        "title": "Las Palabras Andantes",
+        "author": "Eduardo Galeano",
+        "link": "https://hardcover.applas-palabras-andantes",
+        "imageUrl": "https://assets.hardcover.app/edition/31808755/9f7fc60f21cc7d6c7a36c88fda74285a82999116.jpeg",
+        "shelves": [
+          "2020"
+        ],
+        "readAt": "2020-01-09"
+      }
+    ],
+    "2021": [
+      {
+        "title": "Los peces no conocen el agua",
+        "author": "Various",
+        "link": "https://hardcover.applos-peces-no-conocen-el-agua",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496882/ce58edea64e1445f224ae7a3740be10b86444b53.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-06-25"
+      },
+      {
+        "title": "Canción",
+        "author": "Eduardo Halfon",
+        "link": "https://hardcover.appcancion",
+        "imageUrl": "https://assets.hardcover.app/external_data/60442305/3b04d615ec1a5e56e4c39725012cd12a6f7570ac.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-05-19"
+      },
+      {
+        "title": "X-Risk: How Humanity Discovered Its Own Extinction",
+        "author": "Thomas Moynihan",
+        "link": "https://hardcover.appx-risk-how-humanity-discovered-its-own-extinction",
+        "imageUrl": "https://assets.hardcover.app/external_data/59927481/1ad377b42776f62b3904e019bb94e64da8d16032.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-03-13"
+      },
+      {
+        "title": "Do What You Want",
+        "author": "Jim Ruland",
+        "link": "https://hardcover.appdo-what-you-want-0f834f48-343b-45a4-89be-df58f5378f2d",
+        "imageUrl": "https://assets.hardcover.app/external_data/59684782/a42bdbc88eed3f057315f96b4307ae257da73d2b.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-05-16"
+      },
+      {
+        "title": "Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside",
+        "author": "Xiaowei Wang",
+        "link": "https://hardcover.appblockchain-chicken-farm",
+        "imageUrl": "https://assets.hardcover.app/external_data/29466947/616e217618ab0c2547805ad67b54c312457fe2d8.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-08-18"
+      },
+      {
+        "title": "Genesis: Memory of Fire, Volume 1",
+        "author": "Eduardo Galeano",
+        "link": "https://hardcover.appgenesis-memory-of-fire-volume-1",
+        "imageUrl": "https://assets.hardcover.app/edition/31468351/4d28d6a27015085ff13b8a562f998f696e80bc3a.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-04-24"
+      },
+      {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "link": "https://hardcover.appdune",
+        "imageUrl": "https://assets.hardcover.app/edition/6216483/16b2e7f2-d173-46d4-932c-8c5158ea5eff.jpg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-12-12"
+      },
+      {
+        "title": "Ten Arguments for Deleting Your Social Media Accounts Right Now",
+        "author": "Jaron Lanier",
+        "link": "https://hardcover.appten-arguments-for-deleting-your-social-media-accounts-right-now",
+        "imageUrl": "https://assets.hardcover.app/external_data/37180776/7312e4e775cd30815c691cfbab12bf3f1dec13d9.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-03-06"
+      },
+      {
+        "title": "Seres queridos",
+        "author": "Vera Giaconi",
+        "link": "https://hardcover.appseres-queridos",
+        "imageUrl": "https://assets.hardcover.app/external_data/59919975/83954f284a43fa747b4d72cabb0e3ba8fb7e9b5a.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-02-27"
+      },
+      {
+        "title": "Historias de San Petersburgo",
+        "author": "Juan López-Morillas",
+        "link": "https://hardcover.apphistorias-de-san-petersburgo",
+        "imageUrl": "https://assets.hardcover.app/external_data/2158428/68f9dc8c4c00f1854971721d85ec0ead1ed2c3b7.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-03-18"
+      },
+      {
+        "title": "Jorge Luis Borges",
+        "author": "Jorge Luis Borges",
+        "link": "https://hardcover.appjorge-luis-borges-1998",
+        "imageUrl": "https://assets.hardcover.app/edition/30477779/content.jpeg",
+        "shelves": [
+          "2021"
+        ],
+        "readAt": "2021-03-13"
+      }
+    ],
+    "2019": [
+      {
+        "title": "Yo también tuve una novia bisexual",
+        "author": "Guillermo Martínez",
+        "link": "https://hardcover.appyo-tambien-tuve-una-novia-bisexual",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496869/a34224b65b719b325017e564afd6077ab9e621b4.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-06-04"
+      },
+      {
+        "title": "Data Coaching: Un librito sobre datos y beneficios",
+        "author": "Eduardo Valencia Tirapu",
+        "link": "https://hardcover.appdata-coaching",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496867/5db98ec716a1f9072986f9a5999506657bafb011.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-09-02"
+      },
+      {
+        "title": "The Currents of Space",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appthe-currents-of-space",
+        "imageUrl": "https://assets.hardcover.app/edition/31778984/8b390534-d1a4-45e0-a286-57e7382baa4d.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-09-07"
+      },
+      {
+        "title": "Robots and Empire",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.approbots-and-empire",
+        "imageUrl": "https://assets.hardcover.app/edition/30109168/d7396bce53709e2c63285a5549bbc92abd0bb11b.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-04-16"
+      },
+      {
+        "title": "Forward the Foundation",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appforward-the-foundation",
+        "imageUrl": "https://assets.hardcover.app/edition/12696095/70d18a6b-ebfd-4e87-ae41-c2f0ee2b1f29.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-10-28"
+      },
+      {
+        "title": "Nuestra parte de noche",
+        "author": "Mariana Enriquez",
+        "link": "https://hardcover.appnuestra-parte-de-noche-2019",
+        "imageUrl": "https://assets.hardcover.app/book_mappings/7336411/e72f65cf0b98a283d86b59d46db97843cfd4b620.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-12-19"
+      },
+      {
+        "title": "Permanent Record",
+        "author": "Edward Snowden",
+        "link": "https://hardcover.apppermanent-record",
+        "imageUrl": "https://assets.hardcover.app/edition/1143005/8751316-L.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-10-21"
+      },
+      {
+        "title": "The Stars, Like Dust",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appthe-stars-like-dust",
+        "imageUrl": "https://assets.hardcover.app/edition/30803799/4db0f10d-08ac-4821-8a9c-a45f964c3f08.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-09-04"
+      },
+      {
+        "title": "Pebble in the Sky",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.apppebble-in-the-sky",
+        "imageUrl": "https://assets.hardcover.app/edition/30614669/387c5aa9-87ee-4826-96bf-2c307882f05e.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-09-09"
+      },
+      {
+        "title": "Los dueños de internet: cómo nos dominan los gigantes de la tecnología y qué hacer para cambiarlo",
+        "author": "Natalia Zuazo",
+        "link": "https://hardcover.applos-duenos-de-internet",
+        "imageUrl": "https://assets.hardcover.app/external_data/4018793/753c6dac850c68842ec4bc81aee1ea4eec9867df.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-03-15"
+      },
+      {
+        "title": "The Fall of Gondolin",
+        "author": "Christopher Tolkien",
+        "link": "https://hardcover.appthe-fall-of-gondolin",
+        "imageUrl": "https://assets.hardcover.app/edition/30402699/38ac2da046611e5bd0147f6ee3d6a4cc7d4022cc.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-05-15"
+      },
+      {
+        "title": "El salto de papá",
+        "author": "Martín Sivak",
+        "link": "https://hardcover.appel-salto-de-papa",
+        "imageUrl": "https://assets.hardcover.app/external_data/4022436/6f38ce5ec1a1d949868f7fbf850ab4b42324f2de.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-07-28"
+      },
+      {
+        "title": "Prelude to Foundation",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appprelude-to-foundation",
+        "imageUrl": "https://assets.hardcover.app/edition/31954481/9e3fe277-1783-4974-817e-bb1670f101c7.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-10-07"
+      },
+      {
+        "title": "Stories of Your Life and Others",
+        "author": "Ted Chiang",
+        "link": "https://hardcover.appstories-of-your-life-and-others",
+        "imageUrl": "https://assets.hardcover.app/edition/30448261/e263f538-788c-40fa-8160-73378ca2c00a.jpg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-08-10"
+      },
+      {
+        "title": "Acceptance",
+        "author": "Jeff VanderMeer",
+        "link": "https://hardcover.appacceptance",
+        "imageUrl": "https://assets.hardcover.app/edition/31755051/0e5ef45586536503bb81a20fc7094b7c73775662.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-01-09"
+      },
+      {
+        "title": "Die Kreutzersonate",
+        "author": "Leo Tolstoy",
+        "link": "https://hardcover.appdie-kreutzersonate-69e1de4c-7d24-4520-83bf-65b5fa74f77c",
+        "imageUrl": "https://assets.hardcover.app/external_data/4030374/ed6c0302d4677ef5c316f412d1302ebed580a63b.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-07-15"
+      },
+      {
+        "title": "Hadji Murád",
+        "author": "Leo Tolstoy",
+        "link": "https://hardcover.apphadji-murad",
+        "imageUrl": "https://assets.hardcover.app/external_data/49418899/02eed1a5ad1c96b272c45105e36bef87f33c67d2.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-07-21"
+      },
+      {
+        "title": "La felicidad conyugal",
+        "author": "Selma Ancira",
+        "link": "https://hardcover.appla-felicidad-conyugal",
+        "imageUrl": "https://assets.hardcover.app/external_data/60274118/f120448e32abcc4f48ff6582bf03f831aa1772f9.jpeg",
+        "shelves": [
+          "2019"
+        ],
+        "readAt": "2019-07-22"
+      }
+    ],
+    "2026": [
+      {
+        "title": "La última vez",
+        "author": "Guillermo Martínez",
+        "link": "https://hardcover.appla-ultima-vez",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496861/c0eda3b1275e30a4d3aa3103930e4af0f2e5d299.jpeg",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": "2026-04-26"
+      },
+      {
+        "title": "La mecha encendida",
+        "author": "Ramón D. Tarruella",
+        "link": "https://hardcover.appla-mecha-encendida-2016",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496863/7e93283df1b73e911d7836e3be91e5b91a328536.jpeg",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": "2026-04-01"
+      },
+      {
+        "title": "Piranesi",
+        "author": "Susanna Clarke",
+        "link": "https://hardcover.apppiranesi",
+        "imageUrl": "https://assets.hardcover.app/editions/30480426/ec301cb7-b118-48fd-aa3a-5d336e61c182.jpg",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": "2026-04-07"
+      },
+      {
+        "title": "Un crímen dialéctico",
+        "author": "Guillermo Martínez",
+        "link": "https://hardcover.appun-crimen-dialectico",
+        "imageUrl": "",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": "2026-04-26"
+      },
+      {
+        "title": "Breakneck: China's Quest to Engineer the Future",
+        "author": "Dan  Wang",
+        "link": "https://hardcover.appbreakneck-chinas-quest-to-engineer-the-future",
+        "imageUrl": "https://assets.hardcover.app/edition/32208234/b6201b80-d4bd-4faf-bfb2-e438fecabe19.jpg",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": "2026-06-14"
+      },
+      {
+        "title": "Enshittification: Why Everything Suddenly Got Worse and What to Do About It",
+        "author": "Cory Doctorow",
+        "link": "https://hardcover.appenshittification",
+        "imageUrl": "https://assets.hardcover.app/edition/32209337/825022aba6548731b3171ce509f5f469ed903d2a.jpeg",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": "2026-01-12"
+      },
+      {
+        "title": "The Hospital at the End of the World",
+        "author": "Justin C. Key",
+        "link": "https://hardcover.appthe-hospital-at-the-end-of-the-world",
+        "imageUrl": "https://assets.hardcover.app/edition/32409540/f78a3f2d9e3208ea0e862c3dc8546190d140e7fa.jpeg",
+        "shelves": [
+          "2026"
+        ],
+        "readAt": "2026-03-03"
+      }
+    ],
+    "2024": [
+      {
+        "title": "Entre los pliegues de Pekín",
+        "author": "Hao Jingfang",
+        "link": "https://hardcover.appentre-los-pliegues-de-pekin",
+        "imageUrl": "https://assets.hardcover.app/external_data/4496862/8e4a4bf42a0b447acd0fea129189ef2170a032e2.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-04-01"
+      },
+      {
+        "title": "Small Memories",
+        "author": "José Saramago",
+        "link": "https://hardcover.appsmall-memories",
+        "imageUrl": "https://assets.hardcover.app/edition/30325548/6f3d82aeecd9fe40354ef8c788bd313712e135d6.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-08-18"
+      },
+      {
+        "title": "The Dispossessed",
+        "author": "Ursula K. Le Guin",
+        "link": "https://hardcover.appthe-dispossessed",
+        "imageUrl": "https://assets.hardcover.app/external_data/34556756/b42d445b8b1012883042532cc6e0872d23f45bb3.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-02-12"
+      },
+      {
+        "title": "Cult of the Dead Cow",
+        "author": "Joseph Menn",
+        "link": "https://hardcover.appcult-of-the-dead-cow",
+        "imageUrl": "https://assets.hardcover.app/external_data/49458121/9782bf701ad9842fe15e6ff43c8f4ac4890d623a.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-06-25"
+      },
+      {
+        "title": "The Gods Themselves",
+        "author": "Isaac Asimov",
+        "link": "https://hardcover.appthe-gods-themselves",
+        "imageUrl": "https://assets.hardcover.app/edition/18797165/239ec437e1c31b6389fa8afcc68a55ff22e39448.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-01-20"
+      },
+      {
+        "title": "Ghosts of My Life: Writings on Depression, Hauntology and Lost Futures",
+        "author": "Mark Fisher",
+        "link": "https://hardcover.appghosts-of-my-life",
+        "imageUrl": "https://assets.hardcover.app/edition/30421860/16eb0811655371c7f0600b66e79c97b4f47057fa.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-08-18"
+      },
+      {
+        "title": "The Dark Forest",
+        "author": "Cixin Liu",
+        "link": "https://hardcover.appthe-dark-forest",
+        "imageUrl": "https://assets.hardcover.app/editions/16274655/e224cfaa-e592-4601-8fae-174b75ccf2c7.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-05-26"
+      },
+      {
+        "title": "Death's End",
+        "author": "Cixin Liu",
+        "link": "https://hardcover.appdeaths-end",
+        "imageUrl": "https://assets.hardcover.app/editions/31417003/4799439248481925.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-06-01"
+      },
+      {
+        "title": "Capitalist Realism: Is There No Alternative?",
+        "author": "Mark Fisher",
+        "link": "https://hardcover.appcapitalist-realism",
+        "imageUrl": "https://assets.hardcover.app/edition/30561043/49ddfb2b-a744-464a-a714-627d7bd55b7d.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-08-18"
+      },
+      {
+        "title": "Un lugar soleado para gente sombría",
+        "author": "Mariana Enriquez",
+        "link": "https://hardcover.appun-lugar-soleado-para-gente-sombria",
+        "imageUrl": "https://assets.hardcover.app/external_data/60968162/86334db7bc0e8703d1fa72431dcd51e08bb84857.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-03-27"
+      },
+      {
+        "title": "The Three-Body Problem",
+        "author": "Cixin Liu",
+        "link": "https://hardcover.appthe-three-body-problem",
+        "imageUrl": "https://assets.hardcover.app/editions/30400656/4859176399294838.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-05-26"
+      },
+      {
+        "title": "Should We Go Extinct?: A Philosophical Dilemma for Our Unbearable Times",
+        "author": "Todd  May",
+        "link": "https://hardcover.appshould-we-go-extinct",
+        "imageUrl": "https://assets.hardcover.app/edition/31455768/c30731b65fb16cd9cf211b9584a0029707b7ff96.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-08-31"
+      },
+      {
+        "title": "Está entre nosotros: ¿De dónde sale y hasta dónde puede llegar la extrema derecha que no vimos venir?",
+        "author": "Pablo Semán",
+        "link": "https://hardcover.appesta-entre-nosotros",
+        "imageUrl": "https://assets.hardcover.app/external_data/791420/270da1974e17e21f22884b3f164e2e2093321472.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-08-31"
+      },
+      {
+        "title": "Jumpnauts: A Novel",
+        "author": "Hao Jingfang",
+        "link": "https://hardcover.appjumpnauts",
+        "imageUrl": "https://assets.hardcover.app/editions/30994019/3262618082061981-jumpnauts.jpg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-04-13"
+      },
+      {
+        "title": "La vida es un arma",
+        "author": "Rafael Barrett",
+        "link": "https://hardcover.appla-vida-es-un-arma",
+        "imageUrl": "https://assets.hardcover.app/external_data/2637812/4ec60563ae5f39b3015cd94ce50da9dba35337cd.jpeg",
+        "shelves": [
+          "2024"
+        ],
+        "readAt": "2024-06-22"
+      }
+    ],
+    "2025": [
+      {
+        "title": "The Bezzle",
+        "author": "Cory Doctorow",
+        "link": "https://hardcover.appthe-bezzle",
+        "imageUrl": "https://assets.hardcover.app/external_data/1070929/bc0beb5519330b7bb5a9768b437864d2c7617103.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-05-24"
+      },
+      {
+        "title": "Solaris",
+        "author": "Steve Cox",
+        "link": "https://hardcover.appsolaris",
+        "imageUrl": "https://assets.hardcover.app/edition/15545828/c908afb9139ca70866af560bfdd021c655ad53f3.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-04-14"
+      },
+      {
+        "title": "Cuentos completos",
+        "author": "Rodolfo Enrique Fogwill",
+        "link": "https://hardcover.appcuentos-completos-2009",
+        "imageUrl": "https://assets.hardcover.app/edition/32151927/11babd1520830b72e84131a87279b45ec4c5d39d.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-08-11"
+      },
+      {
+        "title": "Valuable Humans in Transit and Other Stories",
+        "author": "qntm",
+        "link": "https://hardcover.appvaluable-humans-in-transit-and-other-stories",
+        "imageUrl": "https://assets.hardcover.app/external_data/61752005/210124d6f710ddba347ae6a553195b02f51e84af.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-02-01"
+      },
+      {
+        "title": "Red Team Blues",
+        "author": "Cory Doctorow",
+        "link": "https://hardcover.appred-team-blues",
+        "imageUrl": "https://assets.hardcover.app/editions/30621072/2bdede2a-52bd-4ce2-84f1-0166dbf6d612.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-05-24"
+      },
+      {
+        "title": "Geometry for Ocelots",
+        "author": "Exurb1a",
+        "link": "https://hardcover.appgeometry-for-ocelots",
+        "imageUrl": "https://assets.hardcover.app/edition/30534486/7e43b3688d8e3c3e1e8c910a5874ea7ed70c9427.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-03-06"
+      },
+      {
+        "title": "Ra",
+        "author": "qntm",
+        "link": "https://hardcover.appra",
+        "imageUrl": "https://assets.hardcover.app/edition/30396811/316f6fd3b3f1a806f23ea53b8c0ae2b53526e768.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-02-01"
+      },
+      {
+        "title": "There Is No Antimemetics Division",
+        "author": "qntm",
+        "link": "https://hardcover.appthere-is-no-antimemetics-division",
+        "imageUrl": "https://assets.hardcover.app/external_data/193765/b3af02e08dc537afe1627e9cc6a20131874e056d.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-01-29"
+      },
+      {
+        "title": "The Fifth Science",
+        "author": "Exurb1a",
+        "link": "https://hardcover.appthe-fifth-science",
+        "imageUrl": "https://assets.hardcover.app/edition/30603052/77b4852625df20811e45f8cc4c34446bc51f02fc.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-03-06"
+      },
+      {
+        "title": "Logic Beach: Part I",
+        "author": "Exurb1a",
+        "link": "https://hardcover.applogic-beach",
+        "imageUrl": "https://assets.hardcover.app/edition/30390808/789161f9-0ce9-46d8-ae4f-2a9a1008dacf.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-03-06"
+      },
+      {
+        "title": "Tender Is the Flesh",
+        "author": "Sarah Moses",
+        "link": "https://hardcover.apptender-is-the-flesh",
+        "imageUrl": "https://assets.hardcover.app/edition/12261434/bd8f2cff-a620-415f-975d-69206e5c6d39.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-01-22"
+      },
+      {
+        "title": "El buen mal",
+        "author": "Samanta Schweblin",
+        "link": "https://hardcover.appel-buen-mal",
+        "imageUrl": "https://assets.hardcover.app/edition/32502177/1874dc92f3bec3f6f7871bcc16fe17754d81242a.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-04-21"
+      },
+      {
+        "title": "Picks and Shovels",
+        "author": "Cory Doctorow",
+        "link": "https://hardcover.apppicks-and-shovels",
+        "imageUrl": "https://assets.hardcover.app/editions/31919440/ed62f508-011b-4693-8313-56472e31716d.jpg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-05-24"
+      },
+      {
+        "title": "The Left Hand of Darkness",
+        "author": "Ursula K. Le Guin",
+        "link": "https://hardcover.appthe-left-hand-of-darkness",
+        "imageUrl": "https://assets.hardcover.app/edition/9212187/1c8d9135d0b8e7d1debe202c85e2229cc3f586b0.jpeg",
+        "shelves": [
+          "2025"
+        ],
+        "readAt": "2025-04-14"
+      }
+    ],
+    "2022": [
+      {
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "link": "https://hardcover.appneuromancer",
+        "imageUrl": "https://assets.hardcover.app/editions/30401722/203725739738019-PxOL.jpg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022-11-12"
+      },
+      {
+        "title": "To Hold Up the Sky",
+        "author": "Cixin Liu",
+        "link": "https://hardcover.appto-hold-up-the-sky",
+        "imageUrl": "https://assets.hardcover.app/external_data/49258093/3c4131c0a7923be3c58683d4fdbf73d7426f2ba4.jpeg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022-07-05"
+      },
+      {
+        "title": "El tercer mundo después del sol",
+        "author": "Rodrigo Bastidas",
+        "link": "https://hardcover.appel-tercer-mundo-despues-del-sol",
+        "imageUrl": "https://assets.hardcover.app/external_data/61060301/07d11d166d6d12aba5d0b4bc66cb3c0e77ce5b2f.jpeg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022-04-24"
+      },
+      {
+        "title": "Magnetizado",
+        "author": "Carlos Busqued",
+        "link": "https://hardcover.appmagnetizado",
+        "imageUrl": "https://assets.hardcover.app/external_data/59919954/208ee5ae953c8106540a9efa30f7fd4d35ca22e3.jpeg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022-05-27"
+      },
+      {
+        "title": "The Man in the High Castle",
+        "author": "Eric Brown",
+        "link": "https://hardcover.appthe-man-in-the-high-castle",
+        "imageUrl": "https://assets.hardcover.app/book_mappings/7332681/aa5b4dfefa5a601437734c17811e6547ed2dc5a9.jpeg",
+        "shelves": [
+          "2022"
+        ],
+        "readAt": "2022-06-25"
+      }
+    ]
+  }
 }
