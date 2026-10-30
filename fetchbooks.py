@@ -1,121 +1,129 @@
+import os
 import requests
-from bs4 import BeautifulSoup
 import json
-import time
 
 # --- Configuration ---
-GOODREADS_USER_ID = '39570859' 
+# Hardcover API Endpoint
+API_URL = "https://api.hardcover.app/v1/graphql"
+
+# Read Token from GitHub Secrets securely
+BEARER_TOKEN = 'hc_pat_EUgrUC2k8MPZsAsb6iwT2Xm4ZA63QV1PcHaxWvMcetXL'
+
 OUTPUT_FILE = 'bookshelf.json'
 
-# Target the standard HTML list view, forcing 100 items per page
-URL_TEMPLATE = f'https://goodreads.com/review/list/{GOODREADS_USER_ID}?shelf={{shelf}}&per_page=100'
-
-YEARS_TO_FETCH = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
-
 HEADERS = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36',
-    'Accept-Language': 'en-US,en;q=0.9'
+    'Authorization': f'Bearer {BEARER_TOKEN}',
+    'Content-Type': 'application/json',
+    'User-Agent': 'GitHubPagesBookshelfScraper/1.0 (YourName/YourRepo)'
 }
 
-def fetch_and_parse_shelf(shelf_name):
-    """Fetches a Goodreads shelf HTML page and parses book elements."""
-    url = URL_TEMPLATE.format(shelf=shelf_name)
-    print(f"Fetching shelf: {shelf_name}...")
-    
-    try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
-        response.raise_for_status()
-    except requests.exceptions.RequestException as e:
-        print(f"  [Error] Failed to fetch shelf '{shelf_name}': {e}")
-        return []
-
-    soup = BeautifulSoup(response.content, 'html.parser')
-    
-    # Goodreads displays items as table rows with a 'review' class
-    review_rows = soup.find_all('tr', class_='review')
-    
-    # Check if we were redirected or hit an empty block
-    if not review_rows:
-        print(f"  [Info] No books found or shelf is private on shelf: {shelf_name}")
-        return []
-
-    books = []
-    for row in review_rows:
-        try:
-            # 1. Extract Title & Book URL
-            title_td = row.find('td', class_='field title')
-            title_a = title_td.find('div', class_='value').find('a') if title_td else None
-            title = title_a.get_text(strip=True) if title_a else 'N/A'
-            link = f"https://goodreads.com{title_a['href']}" if title_a else '#'
-
-            # 2. Extract Author
-            author_td = row.find('td', class_='field author')
-            author_a = author_td.find('div', class_='value').find('a') if author_td else None
-            author = author_a.get_text(strip=True) if author_a else 'N/A'
-
-            # 3. Extract Image URL (Strip out the small thumb modifiers if possible)
-            cover_td = row.find('td', class_='field cover')
-            img_tag = cover_td.find('img') if cover_td else None
-            image_url = img_tag['src'] if img_tag else ''
-            # Clean Goodreads thumbnail strings to get higher res covers if desired
-            image_url = image_url.replace('._SX50_', '').replace('._SY75_', '')
-
-            # 4. Extract Date Read (Optional placeholder fallback)
-            date_td = row.find('td', class_='field date_read')
-            read_at = None
-            if date_td:
-                date_span = date_td.find('span', class_='date_read_value')
-                if date_span:
-                    read_at = date_span.get_text(strip=True)
-
-            books.append({
-                'title': title,
-                'author': author,
-                'link': link,
-                'imageUrl': image_url,
-                'shelves': [shelf_name],
-                'readAt': read_at
-            })
-            
-        except Exception as e:
-            # Keep processing other books if one row fails to parse
-            continue
-
-    print(f"  [Success] Successfully parsed {len(books)} books.")
-    return books
+# Unified GraphQL query to fetch all books in your library
+GRAPHQL_QUERY = """
+query GetUserLibrary {
+  user_books(order_by: { updated_at: desc }) {
+    status_id
+    rating
+    date_added
+    book {
+      title
+      slug
+      image {
+        url
+      }
+      contributions {
+        author {
+          name
+        }
+      }
+    }
+    user_book_reads {
+      id
+      started_at
+    }
+  }
+}
+"""
 
 def generate_bookshelf_json():
+    if not BEARER_TOKEN:
+        print("[Error] HARDCOVER_TOKEN environment variable is missing.")
+        return
+
+    payload = {"query": GRAPHQL_QUERY}
+    
+    try:
+        print("Fetching library data from Hardcover API...")
+        response = requests.post(API_URL, json=payload, headers=HEADERS, timeout=15)
+        response.raise_for_status()
+        data = response.json()
+    except requests.exceptions.RequestException as e:
+        print(f"[Error] Failed to connect to Hardcover: {e}")
+        return
+
+    # Check for GraphQL structural errors
+    if "errors" in data:
+        print(f"[Error] GraphQL syntax error: {data['errors']}")
+        return
+
+    user_books = data.get("data", {}).get("user_books", [])
+    print(f"Retrieved {len(user_books)} library entries.")
+
+    # Rebuilding your original target JSON schema
     all_books_data = {
         'currentlyReading': [],
         'readBooksByYear': {}
     }
 
-    # 1. Fetch Currently Reading books
-    all_books_data['currentlyReading'] = fetch_and_parse_shelf('currently-reading')
-    
-    # Politeness delay after first request
-    print("Waiting 3 seconds to stay under anti-bot limits...")
-    time.sleep(3)
-
-    # 2. Fetch Read books by year
-    for year in YEARS_TO_FETCH:
-        year_str = str(year)
-        shelf_books = fetch_and_parse_shelf(year_str)
+    for item in user_books:
+        status_id = item.get("status_id")
+        book_obj = item.get("book") or {}
         
-        if shelf_books:
-            all_books_data['readBooksByYear'][year_str] = shelf_books
-            
-        # Politeness delay between yearly loop pages
-        print("Waiting 3 seconds before next request...")
-        time.sleep(3)
+        # Format core variables to match your original Goodreads layout structure
+        title = book_obj.get("title", "N/A")
+        
+        # Parse out authors from Hardcover contribution arrays
+        contributions = book_obj.get("contributions", [])
+        author = contributions[0].get("author", {}).get("name", "N/A") if contributions else "N/A"
+        
+        link = f"https://hardcover.app{book_obj.get('slug', '')}" if book_obj.get('slug') else "#"
+        image_url = (book_obj.get("image") or {}).get("url", "")
+        
+        # Hardcover stores specific reading iterations here
+        reads = item.get("user_book_reads", [])
+        read_at = reads[0].get("started_at") if reads else item.get("date_added")
+        
+        # Map values safely into your schema format
+        book_payload = {
+            'title': title,
+            'author': author,
+            'link': link,
+            'imageUrl': image_url,
+            'shelves': [], # Handled dynamically below
+            'readAt': read_at
+        }
 
-    # Write combined data to JSON
+        # Status Mapping: 2 = Currently Reading, 3 = Read
+        if status_id == 2:
+            book_payload['shelves'] = ['currently-reading']
+            all_books_data['currentlyReading'].append(book_payload)
+            
+        elif status_id == 3:
+            # Safely extract the read year format out of timestamps like '2024-05-12...'
+            if read_at:
+                year_str = str(read_at[:4])
+                book_payload['shelves'] = [year_str]
+                
+                if year_str not in all_books_data['readBooksByYear']:
+                    all_books_data['readBooksByYear'][year_str] = []
+                all_books_data['readBooksByYear'][year_str].append(book_payload)
+
+    # Output structural write
     try:
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(all_books_data, f, indent=2, ensure_ascii=False)
-        print(f"\nBookshelf data successfully migrated and saved to {OUTPUT_FILE}")
+        print(f"Success! Rebuilt {OUTPUT_FILE} using your custom Hardcover pipeline.")
     except IOError as e:
-        print(f"Error writing JSON file: {e}")
+        print(f"Error writing output array to file: {e}")
 
 if __name__ == "__main__":
     generate_bookshelf_json()
