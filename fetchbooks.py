@@ -1,7 +1,6 @@
 import os
 import requests
 import json
-import time
 
 # --- Configuration ---
 API_URL = "https://api.hardcover.app/v1/graphql"
@@ -18,82 +17,59 @@ HEADERS = {
     'User-Agent': 'GitHubPagesBookshelfScraper/1.0'
 }
 
-# Paginated GraphQL query using limit and offset
+# The query must be nested inside 'me' so Hardcover limits the lookup to your library
 GRAPHQL_QUERY = """
-query GetUserLibrary($limit: Int!, $offset: Int!) {
-  user_books(order_by: { updated_at: desc }, limit: $limit, offset: $offset) {
-    status_id
-    rating
-    date_added
-    book {
-      title
-      slug
-      image {
-        url
-      }
-      contributions {
-        author {
-          name
+query GetUserLibrary {
+  me {
+    user_books(order_by: { updated_at: desc }) {
+      status_id
+      rating
+      date_added
+      book {
+        title
+        slug
+        image {
+          url
+        }
+        contributions {
+          author {
+            name
+          }
         }
       }
-    }
-    user_book_reads {
-      id
-      started_at
+      user_book_reads {
+        id
+        started_at
+      }
     }
   }
 }
 """
 
-def fetch_all_user_books():
-    """Pages through the user's library safely to avoid API timeouts."""
-    all_entries = []
-    limit = 50
-    offset = 0
-    
-    while True:
-        print(f"Fetching books {offset} to {offset + limit}...")
-        payload = {
-            "query": GRAPHQL_QUERY,
-            "variables": {
-                "limit": limit,
-                "offset": offset
-            }
-        }
-        
-        try:
-            # 30 seconds is the maximum allowed timeout for Hardcover API
-            response = requests.post(API_URL, json=payload, headers=HEADERS, timeout=30)
-            response.raise_for_status()
-            data = response.json()
-        except requests.exceptions.RequestException as e:
-            print(f"[Error] Network issue or timeout at offset {offset}: {e}")
-            break
-
-        if "errors" in data:
-            print(f"[Error] GraphQL syntax error: {data['errors']}")
-            break
-
-        user_books = data.get("data", {}).get("user_books", [])
-        if not user_books:
-            # No more books left to fetch
-            break
-            
-        all_entries.extend(user_books)
-        offset += limit
-        
-        # Micro-pause to be nice to Hardcover's beta servers
-        time.sleep(0.5)
-        
-    return all_entries
-
 def generate_bookshelf_json():
-    user_books = fetch_all_user_books()
-    print(f"\nTotal entries retrieved: {len(user_books)}")
-
-    if not user_books:
-        print("[Warning] No data collected. Output file will not be updated.")
+    payload = {"query": GRAPHQL_QUERY}
+    
+    try:
+        print("Fetching library data securely from Hardcover API...")
+        response = requests.post(API_URL, json=payload, headers=HEADERS, timeout=30)
+        response.raise_for_status()
+        data = response.json()
+    except requests.exceptions.RequestException as e:
+        print(f"[Error] Failed to connect to Hardcover: {e}")
         return
+
+    if "errors" in data:
+        print(f"[Error] GraphQL syntax error: {data['errors']}")
+        return
+
+    # Extract data out of the new 'me' root wrapper safely
+    me_data = data.get("data", {}).get("me", [])
+    if not me_data:
+        print("[Error] Could not resolve 'me' profile. Verify your API token is valid.")
+        return
+        
+    user_books = me_data[0].get("user_books", []) if isinstance(me_data, list) and me_data else me_data.get("user_books", [])
+    print(f"Successfully retrieved {len(user_books)} library entries.")
 
     # Rebuilding your original target JSON schema
     all_books_data = {
@@ -109,15 +85,21 @@ def generate_bookshelf_json():
         link = f"https://hardcover.app{book_obj.get('slug', '')}" if book_obj.get('slug') else "#"
         image_url = (book_obj.get("image") or {}).get("url", "")
         
-        # Safely parse authors from Hardcover's contribution array
+        # Safely parse structural author fields from list blocks
         contributions = book_obj.get("contributions", [])
+        author = "N/A"
         if contributions and isinstance(contributions, list):
-            author = contributions[0].get("author", {}).get("name", "N/A")
-        else:
-            author = "N/A"
-        
+            first_contribution = contributions[0]
+            if isinstance(first_contribution, dict):
+                author = first_contribution.get("author", {}).get("name", "N/A")
+
         reads = item.get("user_book_reads", [])
-        read_at = reads[0].get("started_at") if reads and isinstance(reads, list) else item.get("date_added")
+        read_at = None
+        if reads and isinstance(reads, list):
+            read_at = reads[0].get("started_at")
+        
+        if not read_at:
+            read_at = item.get("date_added")
         
         book_payload = {
             'title': title,
@@ -142,13 +124,13 @@ def generate_bookshelf_json():
                     all_books_data['readBooksByYear'][year_str] = []
                 all_books_data['readBooksByYear'][year_str].append(book_payload)
 
-    # Save to your static file
+    # Save to file
     try:
         with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
             json.dump(all_books_data, f, indent=2, ensure_ascii=False)
-        print(f"Success! Rebuilt {OUTPUT_FILE} using paginated Hardcover data pipeline.")
+        print(f"Bookshelf data successfully migrated and saved to {OUTPUT_FILE}")
     except IOError as e:
-        print(f"Error writing output array to file: {e}")
+        print(f"Error writing JSON file: {e}")
 
 if __name__ == "__main__":
     generate_bookshelf_json()
